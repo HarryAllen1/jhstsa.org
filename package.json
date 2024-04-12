@@ -1,0 +1,21 @@
+{
+  "name": "jhstsa.org",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev pages",
+    "build": "vitepress build pages",
+    "preview": "vitepress preview pages",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "vitepress": "^1.1.0",
+    "vue": "^3.4.21"
+  }
+}
