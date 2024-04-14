@@ -8,13 +8,13 @@ an objective test. Semifinalist teams participate in a question/response, head-t
 
 # Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 3             |
-| State entry limit    | 1 per Chapter |
-| National entry limit | 1 per Chapter |
-| Portfolio required   | No            |
-| Early entry          | No            |
-| Requires test        | Yes           |
-| Onsite only          | Yes           |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 3             |
+| State entry limit      | 1 per Chapter |
+| National entry limit   | 1 per Chapter |
+| Portfolio required     | No            |
+| Early entry            | No            |
+| Requires test          | Yes           |
+| [Onsite Only](/#terms) | Yes           |
+| Toolbox required       | No            |

@@ -9,13 +9,13 @@ amount of time – that accurately addresses an onsite problem.
 
 ## Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 2             |
-| State entry limit    | 3 per Chapter |
-| National entry limit | 1 per State   |
-| Portfolio required   | No            |
-| Early entry          | No            |
-| Requires test        | Yes           |
-| Onsite only          | Yes           |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 2             |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | 1 per State   |
+| Portfolio required     | No            |
+| Early entry            | No            |
+| Requires test          | Yes           |
+| [Onsite Only](/#terms) | Yes           |
+| Toolbox required       | No            |

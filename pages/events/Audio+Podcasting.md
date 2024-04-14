@@ -11,12 +11,12 @@ elements. Semifinalists participate in an interview.
 
 ## Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 1-6           |
-| State entry limit    | 3 per Chapter |
-| National entry limit | 3 per State   |
-| Portfolio required   | Yes           |
-| Early entry          | Yes           |
-| Requires test        | No            |
-| Onsite only          | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 1-6           |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | 3 per State   |
+| Portfolio required     | Yes           |
+| Early entry            | Yes           |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |

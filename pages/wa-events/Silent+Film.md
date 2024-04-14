@@ -8,13 +8,13 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 ## Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 2-6           |
-| State entry limit    | 2 per Chapter |
-| National entry limit | N/A           |
-| Portfolio required   | Yes           |
-| Early entry          | Yes           |
-| Requires test        | No            |
-| Onsite only          | No            |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 2-6           |
+| State entry limit      | 2 per Chapter |
+| National entry limit   | N/A           |
+| Portfolio required     | Yes           |
+| Early entry            | Yes           |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |
+| Toolbox required       | No            |

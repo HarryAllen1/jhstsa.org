@@ -10,13 +10,13 @@ Students will design, build and test a remote controlled robot to carry out a sp
 
 ## Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 2-4           |
-| State entry limit    | 3 per Chapter |
-| National entry limit | N/A           |
-| Portfolio required   | No            |
-| Early entry          | No            |
-| Requires test        | No            |
-| Onsite only          | No            |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 2-4           |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | N/A           |
+| Portfolio required     | No            |
+| Early entry            | No            |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |
+| Toolbox required       | No            |

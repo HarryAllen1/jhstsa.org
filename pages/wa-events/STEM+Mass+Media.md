@@ -10,13 +10,13 @@ Participants utilize written and verbal communication skills designed for a mass
 
 ## Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 2-3           |
-| State entry limit    | 2 per Chapter |
-| National entry limit | N/A           |
-| Portfolio required   | No            |
-| Early entry          | Yes           |
-| Requires test        | No            |
-| Onsite only          | No            |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 2-3           |
+| State entry limit      | 2 per Chapter |
+| National entry limit   | N/A           |
+| Portfolio required     | No            |
+| Early entry            | Yes           |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |
+| Toolbox required       | No            |

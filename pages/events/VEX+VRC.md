@@ -16,13 +16,13 @@ that assesses the efficiency and productivity of the robot.
 
 # Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 2-6           |
-| State entry limit    | 3 per Chapter |
-| National entry limit | 3 per State   |
-| Portfolio required   | No            |
-| Early entry          | No            |
-| Requires test        | No            |
-| Onsite only          | No            |
-| Toolbox required     | Yes           |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 2-6           |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | 3 per State   |
+| Portfolio required     | No            |
+| Early entry            | No            |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |
+| Toolbox required       | Yes           |

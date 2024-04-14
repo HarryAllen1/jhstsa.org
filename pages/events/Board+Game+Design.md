@@ -10,12 +10,12 @@ discuss the design process.
 
 ## Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 2-6           |
-| State entry limit    | 3 per Chapter |
-| National entry limit | 1 per Chapter |
-| Portfolio required   | No            |
-| Early entry          | No            |
-| Requires test        | No            |
-| Onsite only          | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 2-6           |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | 1 per Chapter |
+| Portfolio required     | No            |
+| Early entry            | No            |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |

@@ -8,13 +8,13 @@ addresses the annual theme. Semifinalists deliver a presentation about their vis
 
 # Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 1-6           |
-| State entry limit    | 3 per Chapter |
-| National entry limit | 1 per Chapter |
-| Portfolio required   | Yes           |
-| Early entry          | No            |
-| Requires test        | No            |
-| Onsite only          | No            |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 1-6           |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | 1 per Chapter |
+| Portfolio required     | Yes           |
+| Early entry            | No            |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |
+| Toolbox required       | No            |

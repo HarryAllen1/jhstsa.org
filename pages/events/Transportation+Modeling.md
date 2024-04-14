@@ -11,13 +11,13 @@ participate in an interview.
 
 # Information
 
-|                      |               |
-| -------------------- | ------------- |
-| Team size            | 1             |
-| State entry limit    | 3 per Chapter |
-| National entry limit | 1 per Chapter |
-| Portfolio required   | Yes           |
-| Early entry          | No            |
-| Requires test        | No            |
-| Onsite only          | No            |
-| Toolbox required     | No            |
+|                        |               |
+| ---------------------- | ------------- |
+| Team size              | 1             |
+| State entry limit      | 3 per Chapter |
+| National entry limit   | 1 per Chapter |
+| Portfolio required     | Yes           |
+| Early entry            | No            |
+| Requires test          | No            |
+| [Onsite Only](/#terms) | No            |
+| Toolbox required       | No            |
