@@ -9,13 +9,13 @@ the development of the website.
 
 # Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 2-6           |
-| State entry limit      | 2 per Chapter |
-| National entry limit   | 1 per Chapter |
-| Portfolio required     | No            |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | No            |
-| Toolbox required       | No            |
+|                             |               |
+| --------------------------- | ------------- |
+| Team size                   | 2-6           |
+| State entry limit           | 2 per Chapter |
+| National entry limit        | 1 per Chapter |
+| Portfolio required          | No            |
+| Early entry                 | No            |
+| Requires test               | No            |
+| [Onsite Only](/#terms)      | No            |
+| [Toolbox required](/#terms) | No            |

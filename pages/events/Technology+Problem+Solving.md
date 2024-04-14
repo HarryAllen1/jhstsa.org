@@ -9,13 +9,13 @@ horizontal or vertical distance, and/or strength.
 
 # Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 2             |
-| State entry limit      | 2 per Chapter |
-| National entry limit   | 1 per Chapter |
-| Portfolio required     | No            |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | Yes           |
-| Toolbox required       | Yes           |
+|                             |               |
+| --------------------------- | ------------- |
+| Team size                   | 2             |
+| State entry limit           | 2 per Chapter |
+| National entry limit        | 1 per Chapter |
+| Portfolio required          | No            |
+| Early entry                 | No            |
+| Requires test               | No            |
+| [Onsite Only](/#terms)      | Yes           |
+| [Toolbox required](/#terms) | Yes           |

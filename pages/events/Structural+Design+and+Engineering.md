@@ -10,13 +10,13 @@ efficiency) determine both semifinalists and finalists.
 
 # Information
 
-|                        |                |
-| ---------------------- | -------------- |
-| Team size              | 2              |
-| State entry limit      | 15 per Chapter |
-| National entry limit   | 1 per Chapter  |
-| Portfolio required     | No             |
-| Early entry            | No             |
-| Requires test          | No             |
-| [Onsite Only](/#terms) | No             |
-| Toolbox required       | Yes            |
+|                             |                |
+| --------------------------- | -------------- |
+| Team size                   | 2              |
+| State entry limit           | 15 per Chapter |
+| National entry limit        | 1 per Chapter  |
+| Portfolio required          | No             |
+| Early entry                 | No             |
+| Requires test               | No             |
+| [Onsite Only](/#terms)      | No             |
+| [Toolbox required](/#terms) | Yes            |

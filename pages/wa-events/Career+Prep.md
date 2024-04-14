@@ -12,13 +12,13 @@ This event incorporates elements of leadership, career research, resume developm
 
 ## Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 1             |
-| State entry limit      | 3 per Chapter |
-| National entry limit   | N/A           |
-| Portfolio required     | No            |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | No            |
-| Toolbox required       | No            |
+|                             |               |
+| --------------------------- | ------------- |
+| Team size                   | 1             |
+| State entry limit           | 3 per Chapter |
+| National entry limit        | N/A           |
+| Portfolio required          | No            |
+| Early entry                 | No            |
+| Requires test               | No            |
+| [Onsite Only](/#terms)      | No            |
+| [Toolbox required](/#terms) | No            |

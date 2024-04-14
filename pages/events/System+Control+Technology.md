@@ -11,13 +11,13 @@ operate the model.
 
 # Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 3             |
-| State entry limit      | 3 per Chapter |
-| National entry limit   | 2 per State   |
-| Portfolio required     | No            |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | No            |
-| Toolbox required       | No            |
+|                             |               |
+| --------------------------- | ------------- |
+| Team size                   | 3             |
+| State entry limit           | 3 per Chapter |
+| National entry limit        | 2 per State   |
+| Portfolio required          | No            |
+| Early entry                 | No            |
+| Requires test               | No            |
+| [Onsite Only](/#terms)      | No            |
+| [Toolbox required](/#terms) | No            |

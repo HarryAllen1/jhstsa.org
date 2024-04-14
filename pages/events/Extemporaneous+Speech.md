@@ -10,13 +10,13 @@ finalists.
 
 ## Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 1             |
-| State entry limit      | 2 per Chapter |
-| National entry limit   | 3 per State   |
-| Portfolio required     | No            |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | Yes           |
-| Toolbox required       | No            |
+|                             |               |
+| --------------------------- | ------------- |
+| Team size                   | 1             |
+| State entry limit           | 2 per Chapter |
+| National entry limit        | 3 per State   |
+| Portfolio required          | No            |
+| Early entry                 | No            |
+| Requires test               | No            |
+| [Onsite Only](/#terms)      | Yes           |
+| [Toolbox required](/#terms) | No            |
