@@ -1,5 +1,9 @@
 # Software Development
 
+::: warning Washington Specific Modification
+No semifinal interview will be held.
+:::
+
 Participants use their knowledge of cutting-edge technologies, algorithm design, problem-solving principles, effective
 communication, and collaboration to design, implement,
 test, document, and present a software development project

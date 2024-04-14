@@ -1,5 +1,9 @@
 # Dragster Design
 
+::: warning Washington-specific modification
+There will be no interview.
+:::
+
 Participants design, draw, and construct a CO<sub>2</sub>-powered dragster that adheres to specifications, design and documentation
 requirements, and the annual theme. Semifinalists compete in
 a double-elimination race and participate in an interview.

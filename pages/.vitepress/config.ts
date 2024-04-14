@@ -8,11 +8,27 @@ export default defineConfig({
   title: 'JHS TSA',
   description: 'Guide for events',
   cleanUrls: true,
+  head: [['link', { rel: 'icon', href: '/logo.png' }]],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    socialLinks: [
+      {
+        icon: 'github',
+        link: 'https://github.com/HarryAllen1/jhstsa.org',
+      },
+    ],
+    editLink: {
+      pattern:
+        'https://github.com/HarryAllen1/jhstsa.org/edit/main/pages/:path',
+      text: 'Edit this page on GitHub',
+    },
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Events', link: '/events/' },
+      {
+        text: 'Forms',
+        link: 'https://lwsd.sharepoint.com/:f:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Forms?csf=1&web=1&e=T7xSdI',
+      },
+      { text: 'Team Creation', link: 'https://grouping.jhstsa.org' },
     ],
 
     sidebar: [

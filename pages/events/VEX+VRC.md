@@ -3,6 +3,9 @@
 ::: warning
 You may only participate in this event if you already have VEX VRC parts.
 :::
+::: warning
+This event has Washington-specific modifications.
+:::
 
 Participants collaborate on a robotics project in which they
 build a robot that incorporates the relationship among STEM
