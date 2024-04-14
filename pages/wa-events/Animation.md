@@ -4,4 +4,19 @@
 This is a Washington Only event. Washington Only events typically have smaller competition. However, you won't be able to compete in this event at the national level.
 :::
 
-[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/Washington%20Only%20Events/Animation.pdf)
+Using 3D, 2D, and/or stop-motion animation tools, participants develop an animated short (with sound) and portfolio that reflects the theme for the year.
+
+[Event Guide](https://www.washingtontsa.org/s/HS-Animation-23-24.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 1-4           |
+| State entry limit    | 3 per Chapter |
+| National entry limit | N/A           |
+| Portfolio required   | Yes           |
+| Early entry          | Yes           |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |

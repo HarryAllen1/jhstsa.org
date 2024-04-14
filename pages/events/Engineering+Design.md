@@ -9,3 +9,16 @@ Semifinalists deliver a presentation and participate in an
 interview.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Engineering%20Design.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 3-6           |
+| State entry limit    | 5 per Chapter |
+| National entry limit | 3 per State   |
+| Portfolio required   | Yes           |
+| Early entry          | No            |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |

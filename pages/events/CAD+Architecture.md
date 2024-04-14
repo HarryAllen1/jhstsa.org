@@ -9,3 +9,15 @@ solution to the design challenge and participant answers in an
 interview are evaluated.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20CAD%20Architecture.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 1             |
+| State entry limit    | 3 per Chapter |
+| National entry limit | 2 per State   |
+| Portfolio required   | No            |
+| Early entry          | No            |
+| Requires test        | No            |
+| Onsite only          | Yes           |

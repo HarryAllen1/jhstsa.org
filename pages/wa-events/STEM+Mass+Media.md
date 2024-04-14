@@ -4,4 +4,19 @@
 This is a Washington Only event. Washington Only events typically have smaller competition. However, you won't be able to compete in this event at the national level.
 :::
 
-[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/Washington%20Only%20Events/STEM%20Mass%20Media.pdf)
+Participants utilize written and verbal communication skills designed for a mass audience to convey a news story revolving around a designated theme in both a video broadcast (preliminary) and a digital written format (semiﬁnals).
+
+[Event Guide](https://www.washingtontsa.org/s/HS-STEM-Mass-Media.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 2-3           |
+| State entry limit    | 2 per Chapter |
+| National entry limit | N/A           |
+| Portfolio required   | No            |
+| Early entry          | Yes           |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |

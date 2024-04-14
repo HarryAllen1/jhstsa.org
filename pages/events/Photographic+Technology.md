@@ -9,3 +9,16 @@ Finalists are determined based on the quality of the semifinal
 portfolio, the portfolio presentation, and interview responses.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Photographic%20Technology.pdf)
+
+# Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 1             |
+| State entry limit    | 3 per Chapter |
+| National entry limit | 1 per Chapter |
+| Portfolio required   | Yes           |
+| Early entry          | Yes           |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |

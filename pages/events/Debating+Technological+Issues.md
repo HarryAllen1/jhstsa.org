@@ -8,3 +8,16 @@ their research to support their assigned position. The quality of
 a team’s debate determines semifinalists and finalists.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Debating%20Technological%20Issues.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 2             |
+| State entry limit    | 2 per Chapter |
+| National entry limit | 3 per State   |
+| Portfolio required   | No            |
+| Early entry          | No            |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |

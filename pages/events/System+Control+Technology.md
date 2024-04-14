@@ -8,3 +8,16 @@ in an interview, and provide instructions for evaluators to
 operate the model.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20System%20Control%20Technology.pdf)
+
+# Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 3             |
+| State entry limit    | 3 per Chapter |
+| National entry limit | 2 per State   |
+| Portfolio required   | No            |
+| Early entry          | No            |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |

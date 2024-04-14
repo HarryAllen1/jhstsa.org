@@ -6,3 +6,15 @@ opening ceremony, items of business, parliamentary actions,
 and a closing ceremony.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Chapter%20Team.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 6             |
+| State entry limit    | 2 per Chapter |
+| National entry limit | 1 per Chapter |
+| Portfolio required   | Yes           |
+| Early entry          | Yes           |
+| Requires test        | Yes           |
+| Onsite only          | No            |

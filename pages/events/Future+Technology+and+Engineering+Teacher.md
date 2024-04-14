@@ -8,3 +8,16 @@ integration. Semifinalists demonstrate the lesson plan and
 answer questions about their presentation.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Future%20Technology%20and%20Engineering%20Teacher.pdf)
+
+## Information
+
+|                      |               |
+| -------------------- | ------------- |
+| Team size            | 1             |
+| State entry limit    | 3 per Chapter |
+| National entry limit | 3 per Chapter |
+| Portfolio required   | No            |
+| Early entry          | Yes           |
+| Requires test        | No            |
+| Onsite only          | No            |
+| Toolbox required     | No            |
