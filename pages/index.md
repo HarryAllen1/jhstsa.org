@@ -1,11 +1,3 @@
----
-layout: home
+# JHS TSA Guide for Events
 
-hero:
-  name: 'JHS TSA'
-  text: 'Guide for events'
-  actions:
-    - theme: brand
-      text: View Event Basics
-      link: /events
----
+In order to view event guides, make sure you are logging into your LWSD account when prompted to log in.

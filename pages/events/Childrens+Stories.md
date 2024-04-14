@@ -1,0 +1,8 @@
+# Children's Stories
+
+In response to the annual theme, participants create an illustrated children’s story of artistic, instructional, and social value,
+and submit documentation related to the development of the
+physical storybook. Semifinalists read their story aloud and
+participate in an interview.
+
+[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Childrens%20Stories.pdf)
