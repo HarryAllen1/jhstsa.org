@@ -1,6 +1,6 @@
+import { readFile } from 'node:fs/promises';
 import glob from 'tiny-glob';
 import { defineConfig } from 'vitepress';
-import { readFile } from 'node:fs/promises';
 
 export default defineConfig({
   title: 'JHS TSA',
