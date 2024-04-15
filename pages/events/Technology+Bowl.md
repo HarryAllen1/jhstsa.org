@@ -18,5 +18,5 @@ an objective test. Semifinalist teams participate in a question/response, head-t
 | Requires test               | Yes           |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | No            |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | No            |

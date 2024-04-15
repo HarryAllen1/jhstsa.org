@@ -19,5 +19,5 @@ forensic science through crime scene analysis, with the findings synthesized in 
 | Requires test               | Yes           |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | Yes           |
-| Presentation                | No            |
-| Interview                   | No            |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | No            |

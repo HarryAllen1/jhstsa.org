@@ -20,5 +20,5 @@ accompanying required slide deck.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | Yes           |
-| Interview                   | No            |
+| [Presentation](/#terms)     | Yes           |
+| [Interview](/#terms)        | No            |

@@ -9,14 +9,14 @@ and a closing ceremony.
 
 ## Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 6             |
-| State entry limit      | 2 per Chapter |
-| National entry limit   | 1 per Chapter |
-| Portfolio required     | Yes           |
-| Early entry            | Yes           |
-| Requires test          | Yes           |
-| [Onsite Only](/#terms) | No            |
-| Presentation           | Yes           |
-| Interview              | No            |
+|                         |               |
+| ----------------------- | ------------- |
+| Team size               | 6             |
+| State entry limit       | 2 per Chapter |
+| National entry limit    | 1 per Chapter |
+| Portfolio required      | Yes           |
+| Early entry             | Yes           |
+| Requires test           | Yes           |
+| [Onsite Only](/#terms)  | No            |
+| [Presentation](/#terms) | Yes           |
+| [Interview](/#terms)    | No            |

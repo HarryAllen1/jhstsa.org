@@ -21,5 +21,5 @@ determines the finalists.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | No            |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | No            |

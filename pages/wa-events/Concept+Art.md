@@ -20,5 +20,5 @@ Participants use digital art and design skills in the production of conceptual a
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | Yes           |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | Yes           |

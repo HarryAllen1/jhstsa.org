@@ -26,5 +26,5 @@ that assesses the efficiency and productivity of the robot.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | Yes           |
-| Presentation                | No            |
-| Interview                   | Yes           |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | Yes           |

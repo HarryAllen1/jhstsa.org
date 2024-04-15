@@ -22,5 +22,5 @@ portfolio, the portfolio presentation, and interview responses.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | Yes           |
-| Interview                   | Yes           |
+| [Presentation](/#terms)     | Yes           |
+| [Interview](/#terms)        | Yes           |

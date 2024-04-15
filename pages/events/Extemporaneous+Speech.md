@@ -20,5 +20,5 @@ finalists.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | Yes           |
-| Interview                   | No            |
+| [Presentation](/#terms)     | Yes           |
+| [Interview](/#terms)        | No            |

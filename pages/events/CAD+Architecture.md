@@ -16,14 +16,14 @@ interview are evaluated.
 
 ## Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 1             |
-| State entry limit      | 3 per Chapter |
-| National entry limit   | 2 per State   |
-| Portfolio required     | No            |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | Yes           |
-| Presentation           | No            |
-| Interview              | Yes           |
+|                         |               |
+| ----------------------- | ------------- |
+| Team size               | 1             |
+| State entry limit       | 3 per Chapter |
+| National entry limit    | 2 per State   |
+| Portfolio required      | No            |
+| Early entry             | No            |
+| Requires test           | No            |
+| [Onsite Only](/#terms)  | Yes           |
+| [Presentation](/#terms) | No            |
+| [Interview](/#terms)    | Yes           |

@@ -21,5 +21,5 @@ respond to interview questions.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | Yes           |
-| Interview                   | Yes           |
+| [Presentation](/#terms)     | Yes           |
+| [Interview](/#terms)        | Yes           |

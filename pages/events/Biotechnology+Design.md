@@ -10,14 +10,14 @@ interview.
 
 ## Information
 
-|                        |               |
-| ---------------------- | ------------- |
-| Team size              | 2-6           |
-| State entry limit      | 3 per Chapter |
-| National entry limit   | 1 per Chapter |
-| Portfolio required     | Yes           |
-| Early entry            | No            |
-| Requires test          | No            |
-| [Onsite Only](/#terms) | No            |
-| Presentation           | Yes           |
-| Interview              | Yes           |
+|                         |               |
+| ----------------------- | ------------- |
+| Team size               | 2-6           |
+| State entry limit       | 3 per Chapter |
+| National entry limit    | 1 per Chapter |
+| Portfolio required      | Yes           |
+| Early entry             | No            |
+| Requires test           | No            |
+| [Onsite Only](/#terms)  | No            |
+| [Presentation](/#terms) | Yes           |
+| [Interview](/#terms)    | Yes           |

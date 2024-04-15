@@ -20,5 +20,5 @@ This is a fun, exciting event that teachers can use to capture student interest 
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | No            |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | No            |

@@ -22,5 +22,5 @@ This event incorporates elements of leadership, career research, resume developm
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | Yes           |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | Yes           |

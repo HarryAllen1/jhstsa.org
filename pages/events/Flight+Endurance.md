@@ -21,5 +21,5 @@ are aspects of the evaluation.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | No            |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | No            |

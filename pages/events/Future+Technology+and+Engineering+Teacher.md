@@ -21,7 +21,7 @@ answer questions about their presentation.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | Yes           |
-| Interview                   | No\*          |
+| [Presentation](/#terms)     | Yes           |
+| [Interview](/#terms)        | No\*          |
 
 \*The presentation time given can also be used to respond to judges' questions.

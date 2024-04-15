@@ -20,5 +20,5 @@ efficiency) determine both semifinalists and finalists.
 | Requires test               | No             |
 | [Onsite Only](/#terms)      | No             |
 | [Toolbox required](/#terms) | Yes            |
-| Presentation                | No             |
-| Interview                   | No             |
+| [Presentation](/#terms)     | No             |
+| [Interview](/#terms)        | No             |

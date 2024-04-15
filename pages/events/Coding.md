@@ -19,5 +19,5 @@ amount of time – that accurately addresses an onsite problem.
 | Requires test               | Yes           |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | No            |
-| Presentation                | No            |
-| Interview                   | No            |
+| [Presentation](/#terms)     | No            |
+| [Interview](/#terms)        | No            |
