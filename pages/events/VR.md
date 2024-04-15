@@ -6,6 +6,8 @@ addresses the annual theme. Semifinalists deliver a presentation about their vis
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20VR.pdf)
 
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/virtual-reality-visualization)
+
 # Information
 
 |                             |               |

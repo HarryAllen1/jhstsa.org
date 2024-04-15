@@ -7,6 +7,8 @@ the development of the website.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Webmaster.pdf)
 
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/webmaster)
+
 # Information
 
 |                             |               |

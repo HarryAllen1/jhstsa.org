@@ -1,12 +1,14 @@
-# Infographic (Washington Only)
+# Career Prep (Washington Only)
 
 ::: info
 This is a Washington Only event. Washington Only events typically have smaller competition. However, you won't be able to compete in this event at the national level.
 :::
 
-Participants combine text, illustrations, charts, and graphics to communicate complex concepts or data quickly and effectively, helping to help convey information in a more visually appealing and accessible manner, making it easier for viewers to understand and remember key points.
+Career Prep is currently a middle school national TSA event. Washington TSA will run Career Prep as a high school event also. Students have to research an entry-level career, and write a cover letter and resume as if they have just graduated from college/high school/tech school with whatever training is required for the position they are applying for. Then, semifinalists will do an interview as well. This is one of the most useful skills TSA students will use for a lifetime.
 
-[Event Guide](https://www.washingtontsa.org/s/HS-Infographic-23-24.pdf)
+This event incorporates elements of leadership, career research, resume development and interview skills in a real-world application.
+
+[Event Guide](https://www.washingtontsa.org/s/HS-Career-Prep-23-24.pdf)
 
 [Washington TSA page](https://www.washingtontsa.org/washington-events)
 
@@ -18,7 +20,7 @@ Participants combine text, illustrations, charts, and graphics to communicate co
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | No            |
-| Early entry                 | Yes           |
+| Early entry                 | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

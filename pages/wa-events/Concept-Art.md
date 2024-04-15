@@ -1,12 +1,12 @@
-# Trebuchet (Washington Only)
+# Concept Art (Washington Only)
 
 ::: info
 This is a Washington Only event. Washington Only events typically have smaller competition. However, you won't be able to compete in this event at the national level.
 :::
 
-This is a fun, exciting event that teachers can use to capture student interest in STEM and TSA. Washington TSA will run this event at both the middle and high school level this year. This event incorporates elements of design, research, construction and problem-solving in a real-world application.
+Participants use digital art and design skills in the production of conceptual art and portfolio that reflects the theme for the year.
 
-[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/Washington%20Only%20Events/Trebuchet.pdf)
+[Event Guide](https://www.washingtontsa.org/s/HS-Concept-Art-23-24.pdf)
 
 [Washington TSA page](https://www.washingtontsa.org/washington-events)
 
@@ -14,13 +14,13 @@ This is a fun, exciting event that teachers can use to capture student interest 
 
 |                             |               |
 | --------------------------- | ------------- |
-| Team size                   | 2-4           |
+| Team size                   | 1             |
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| Early entry                 | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
 | [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | No            |
+| [Interview](/#terms)        | Yes           |

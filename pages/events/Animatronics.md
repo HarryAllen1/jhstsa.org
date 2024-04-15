@@ -13,6 +13,8 @@ surrounding environment (a display).
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Animatronics.pdf)
 
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/animatronics)
+
 ## Information
 
 |                             |               |
