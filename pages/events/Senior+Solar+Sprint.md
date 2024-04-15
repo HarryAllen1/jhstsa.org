@@ -20,3 +20,5 @@ begin the SSS journey (ask Mr. Shelton to do this for you).
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | Yes           |

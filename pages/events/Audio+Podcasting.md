@@ -20,3 +20,5 @@ elements. Semifinalists participate in an interview.
 | Early entry            | Yes           |
 | Requires test          | No            |
 | [Onsite Only](/#terms) | No            |
+| Presentation           | No            |
+| Interview              | Yes           |

@@ -19,3 +19,5 @@ discuss the design process.
 | Early entry            | No            |
 | Requires test          | No            |
 | [Onsite Only](/#terms) | No            |
+| Presentation           | Yes           |
+| Interview              | Yes           |

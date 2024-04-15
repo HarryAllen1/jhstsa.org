@@ -20,3 +20,5 @@ documentation. Semifinalists demonstrate publishing competency in an onsite tech
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | No            |

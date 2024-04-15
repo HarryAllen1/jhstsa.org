@@ -19,3 +19,5 @@ horizontal or vertical distance, and/or strength.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | Yes           |
+| Presentation                | No            |
+| Interview                   | No            |

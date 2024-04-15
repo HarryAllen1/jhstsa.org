@@ -22,3 +22,7 @@ a double-elimination race and participate in an interview.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | Yes\*         |
+
+\*There will be no interview at the State level.

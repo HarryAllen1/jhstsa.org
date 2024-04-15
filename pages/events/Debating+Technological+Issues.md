@@ -21,3 +21,5 @@ a team’s debate determines semifinalists and finalists.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | Yes           |
+| Interview                   | No            |

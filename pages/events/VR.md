@@ -18,3 +18,5 @@ addresses the annual theme. Semifinalists deliver a presentation about their vis
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | Yes           |
+| Interview                   | Yes           |

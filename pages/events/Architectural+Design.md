@@ -19,3 +19,5 @@ accurately depict their design. Semifinalists deliver a presentation and partici
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | Yes           |
+| Interview                   | Yes           |

@@ -20,3 +20,5 @@ Students will design, build and test a remote controlled robot to carry out a sp
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | No            |

@@ -20,3 +20,5 @@ Participants utilize written and verbal communication skills designed for a mass
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | Yes           |

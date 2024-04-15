@@ -20,3 +20,5 @@ presented in the prompt.
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | No            |

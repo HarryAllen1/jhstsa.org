@@ -25,3 +25,5 @@ surrounding environment (a display).
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | Yes           |
+| Interview                   | Yes           |

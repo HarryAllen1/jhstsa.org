@@ -18,3 +18,5 @@ This is a Washington Only event. Washington Only events typically have smaller c
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | Yes           |

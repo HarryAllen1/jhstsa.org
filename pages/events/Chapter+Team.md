@@ -18,3 +18,5 @@ and a closing ceremony.
 | Early entry            | Yes           |
 | Requires test          | Yes           |
 | [Onsite Only](/#terms) | No            |
+| Presentation           | Yes           |
+| Interview              | No            |

@@ -1,5 +1,9 @@
 # Computer-Aided Design (CAD) Architecture
 
+::: warning
+Participants may participate in CAD Architecture or CAD Engineering, but not both.
+:::
+
 Participants use complex computer graphic skills, tools, and
 processes to respond to a design challenge in which they
 develop representations of architectural subjects, such as
@@ -21,3 +25,5 @@ interview are evaluated.
 | Early entry            | No            |
 | Requires test          | No            |
 | [Onsite Only](/#terms) | Yes           |
+| Presentation           | No            |
+| Interview              | Yes           |

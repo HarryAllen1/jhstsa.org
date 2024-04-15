@@ -15,8 +15,10 @@ This is a fun, exciting event that teachers can use to capture student interest 
 | Team size                   | 2-4           |
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
-| Portfolio required          | No            |
+| Portfolio required          | Yes           |
 | Early entry                 | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
+| Presentation                | No            |
+| Interview                   | No            |
