@@ -1,12 +1,38 @@
 import { readFile } from 'node:fs/promises';
 import glob from 'tiny-glob';
 import { defineConfig } from 'vitepress';
-import { rename } from 'node:fs/promises';
+
+const waEvents = async () =>
+  await Promise.all(
+    (await glob('./pages/wa-events/*.md')).map(async (path) => ({
+      text: (await readFile(path)).toString().split('\n')[0].slice(2, -18),
+      link: path.slice(5, -3),
+    })),
+  );
+
+console.log(
+  await Promise.all(
+    (await glob('./pages/events/*.md')).map(async (path) => ({
+      text: (await readFile(path)).toString().split('\n')[0].slice(2),
+      link: path.slice(5, -3),
+    })),
+  ),
+);
+
+const nationalEvents = async () =>
+  await Promise.all(
+    (await glob('./pages/events/*.md')).map(async (path) => ({
+      text: (await readFile(path)).toString().split('\n')[0].slice(2),
+      link: path.slice(5, -3),
+    })),
+  );
 
 export default defineConfig({
   title: 'JHS TSA',
   description: 'Guide for events',
+  metaChunk: true,
   cleanUrls: true,
+  lastUpdated: true,
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   themeConfig: {
     search: {
@@ -35,27 +61,14 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'WA Events',
         collapsed: false,
-        text: 'WA Only Events',
-        items: await Promise.all(
-          (await glob('./pages/wa-events/*.md')).map(async (path) => ({
-            text: (await readFile(path))
-              .toString()
-              .split('\n')[0]
-              .slice(2, -18),
-            link: path.slice(6),
-          })),
-        ),
+        items: await waEvents(),
       },
       {
         text: 'National Events',
         collapsed: false,
-        items: await Promise.all(
-          (await glob('./pages/events/*.md')).map(async (path) => ({
-            text: (await readFile(path)).toString().split('\n')[0].slice(2),
-            link: path.slice(6),
-          })),
-        ),
+        items: await nationalEvents(),
       },
     ],
   },
