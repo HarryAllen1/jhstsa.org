@@ -17,9 +17,11 @@ participate in an interview.
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 3 per State   |
 | Portfolio required          | Yes           |
-| Early entry                 | Yes           |
+| Early entry\*               | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
 | [Presentation](/#terms)     | Yes           |
 | [Interview](/#terms)        | Yes           |
+
+\*Children's stories is only an early entry event for the State conference. For the National conference, Children's stories is _not_ an early entry event.

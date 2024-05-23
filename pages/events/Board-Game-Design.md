@@ -12,14 +12,16 @@ discuss the design process.
 
 ## Information
 
-|                         |               |
-| ----------------------- | ------------- |
-| Team size               | 2-6           |
-| State entry limit       | 3 per Chapter |
-| National entry limit    | 1 per Chapter |
-| Portfolio required      | No            |
-| Early entry             | No            |
-| Requires test           | No            |
-| [Onsite Only](/#terms)  | No            |
-| [Presentation](/#terms) | Yes           |
-| [Interview](/#terms)    | Yes           |
+|                         |                               |
+| ----------------------- | ----------------------------- |
+| Team size               | 2-6                           |
+| State entry limit       | 3 per Chapter                 |
+| National entry limit    | 1 per Chapter                 |
+| Portfolio required      | No                            |
+| Early entry\*           | Yes (Documentation Portfolio) |
+| Requires test           | No                            |
+| [Onsite Only](/#terms)  | No                            |
+| [Presentation](/#terms) | Yes                           |
+| [Interview](/#terms)    | Yes                           |
+
+\*Board Game Design is only an early entry event for the State conference. Board Game Design is _not_ an early entry event for the National conference.

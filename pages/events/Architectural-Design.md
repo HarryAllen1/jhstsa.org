@@ -17,9 +17,11 @@ accurately depict their design. Semifinalists deliver a presentation and partici
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 1 per Chapter |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| Early entry\*               | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
 | [Presentation](/#terms)     | Yes           |
 | [Interview](/#terms)        | Yes           |
+
+\*For the State conference, Architectural Design is _not_ an early entry event. For the National conference, Architectural design _is_ an early entry event.

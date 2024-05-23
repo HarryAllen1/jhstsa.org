@@ -11,17 +11,17 @@ of a data set provided in an onsite challenge.
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1-2           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | Yes           |
-| Early entry                 | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | No\*          |
+|                             |                                                                                |
+| --------------------------- | ------------------------------------------------------------------------------ |
+| Team size                   | 1-2                                                                            |
+| State entry limit           | 3 per Chapter                                                                  |
+| National entry limit        | 3 per State                                                                    |
+| Portfolio required          | Yes                                                                            |
+| Early entry                 | Yes (Documentation Portfolio; Photo/Film/ Video Consent Forms (if applicable)) |
+| Requires test               | No                                                                             |
+| [Onsite Only](/#terms)      | No                                                                             |
+| [Toolbox required](/#terms) | No                                                                             |
+| [Presentation](/#terms)     | Yes                                                                            |
+| [Interview](/#terms)        | No\*                                                                           |
 
 \*The presentation time given can also be used to respond to judges' questions.

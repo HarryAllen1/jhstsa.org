@@ -17,7 +17,7 @@ and a closing ceremony.
 | State entry limit       | 2 per Chapter |
 | National entry limit    | 1 per Chapter |
 | Portfolio required      | Yes           |
-| Early entry             | Yes           |
+| Early entry             | No            |
 | Requires test           | Yes           |
 | [Onsite Only](/#terms)  | No            |
 | [Presentation](/#terms) | Yes           |
