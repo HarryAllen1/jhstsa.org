@@ -1,6 +1,6 @@
 # Software Development
 
-::: warning Washington Specific Modification
+::: warning Washington-specific Modification
 No semifinal interview will be held.
 :::
 

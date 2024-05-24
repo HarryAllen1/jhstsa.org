@@ -1,5 +1,11 @@
 # Fashion Design and Technology
 
+::: warning Washington-specific modification
+All entries (whether they make semifinals or not) will participate in a runway show on Thursday evening at State.
+
+ALL teams should write up a paragraph about their design, including student names and roles on the team, that will be read while they are modeling
+:::
+
 To address the annual theme, participants demonstrate
 expertise in fashion design principles by creating a wearable
 garment, garment patterns, and a documentation portfolio.
