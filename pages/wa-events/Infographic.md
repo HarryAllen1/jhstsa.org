@@ -18,7 +18,7 @@ Participants combine text, illustrations, charts, and graphics to communicate co
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | No            |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

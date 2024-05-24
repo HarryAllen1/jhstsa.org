@@ -1,5 +1,13 @@
 # Data Science and Analytics
 
+::: warning Washington-specific modification
+
+- Students will create a digital 36x48 size poster, that includes all of the required information
+- The poster will be uploaded as a separate pdf file
+- The poster will NOT be included in the portfolio file
+- The poster must be submitted for the early entry deadline. For the National conference, only the portfolio and consent forms are required.
+  :::
+
 Participants identify a societal issue, collect or compile data
 from various sources about the issue, and then produce documentation and a digital scientific poster about their findings.
 Semifinalists create a synopsis and digital visual representation
@@ -11,17 +19,18 @@ of a data set provided in an onsite challenge.
 
 ## Information
 
-|                             |                                                                                |
-| --------------------------- | ------------------------------------------------------------------------------ |
-| Team size                   | 1-2                                                                            |
-| State entry limit           | 3 per Chapter                                                                  |
-| National entry limit        | 3 per State                                                                    |
-| Portfolio required          | Yes                                                                            |
-| Early entry                 | Yes (Documentation Portfolio; Photo/Film/ Video Consent Forms (if applicable)) |
-| Requires test               | No                                                                             |
-| [Onsite Only](/#terms)      | No                                                                             |
-| [Toolbox required](/#terms) | No                                                                             |
-| [Presentation](/#terms)     | Yes                                                                            |
-| [Interview](/#terms)        | No\*                                                                           |
+|                             |                                                                                           |
+| --------------------------- | ----------------------------------------------------------------------------------------- |
+| Team size                   | 1-2                                                                                       |
+| State entry limit           | 3 per Chapter                                                                             |
+| National entry limit        | 3 per State                                                                               |
+| Portfolio required          | Yes                                                                                       |
+| [Early entry](/#terms)\*    | Yes (Documentation Portfolio, Poster, and Photo/Film/Video Consent Forms (if applicable)) |
+| Requires test               | No                                                                                        |
+| [Onsite Only](/#terms)      | No                                                                                        |
+| [Toolbox required](/#terms) | No                                                                                        |
+| [Presentation](/#terms)     | Yes                                                                                       |
+| [Interview](/#terms)        | No\*\*                                                                                    |
 
-\*The presentation time given can also be used to respond to judges' questions.
+\* For the State conference, the poster must also be submitted for the early entry deadline. For the National conference, only the portfolio and consent forms are required.
+\*\*The presentation time given can also be used to respond to judges' questions.

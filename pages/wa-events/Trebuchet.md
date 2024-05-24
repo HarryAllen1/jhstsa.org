@@ -18,7 +18,7 @@ This is a fun, exciting event that teachers can use to capture student interest 
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

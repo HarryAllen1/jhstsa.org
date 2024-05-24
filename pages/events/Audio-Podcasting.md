@@ -19,7 +19,7 @@ elements. Semifinalists participate in an interview.
 | State entry limit       | 3 per Chapter                                   |
 | National entry limit    | 3 per State                                     |
 | Portfolio required      | Yes                                             |
-| Early entry             | Yes (Documentation Portfolio and Audio Podcast) |
+| [Early entry](/#terms)  | Yes (Documentation Portfolio and Audio Podcast) |
 | Requires test           | No                                              |
 | [Onsite Only](/#terms)  | No                                              |
 | [Presentation](/#terms) | No                                              |

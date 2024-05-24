@@ -18,7 +18,7 @@ Participants utilize written and verbal communication skills designed for a mass
 | State entry limit           | 2 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | No            |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

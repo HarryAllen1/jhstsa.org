@@ -10,15 +10,6 @@ const waEvents = async () =>
     })),
   );
 
-console.log(
-  await Promise.all(
-    (await glob('./pages/events/*.md')).map(async (path) => ({
-      text: (await readFile(path)).toString().split('\n')[0].slice(2),
-      link: path.slice(5, -3),
-    })),
-  ),
-);
-
 const nationalEvents = async () =>
   await Promise.all(
     (await glob('./pages/events/*.md')).map(async (path) => ({

@@ -16,7 +16,7 @@ addresses the annual theme. Semifinalists deliver a presentation about their vis
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 1 per Chapter |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

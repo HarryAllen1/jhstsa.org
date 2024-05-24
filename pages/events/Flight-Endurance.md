@@ -19,7 +19,7 @@ are aspects of the evaluation.
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 2 per Chapter |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

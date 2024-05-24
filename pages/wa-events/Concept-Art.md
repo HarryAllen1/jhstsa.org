@@ -18,7 +18,7 @@ Participants use digital art and design skills in the production of conceptual a
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | Yes           |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

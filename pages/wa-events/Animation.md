@@ -18,7 +18,7 @@ Using 3D, 2D, and/or stop-motion animation tools, participants develop an animat
 | State entry limit           | 3 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | Yes           |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

@@ -20,7 +20,7 @@ interview.
 | State entry limit           | 5 per Chapter |
 | National entry limit        | 3 per State   |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

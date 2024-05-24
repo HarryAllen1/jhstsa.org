@@ -19,7 +19,7 @@ answer questions about their presentation.
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 3 per Chapter |
 | Portfolio required          | No            |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

@@ -1,5 +1,9 @@
 # Children's Stories
 
+::: warning Washington-specific modification
+Children's stories will be an early-entry event.
+:::
+
 In response to the annual theme, participants create an illustrated children’s story of artistic, instructional, and social value,
 and submit documentation related to the development of the
 physical storybook. Semifinalists read their story aloud and
@@ -17,7 +21,7 @@ participate in an interview.
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 3 per State   |
 | Portfolio required          | Yes           |
-| Early entry\*               | Yes           |
+| [Early entry](/#terms)\*    | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

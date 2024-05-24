@@ -17,7 +17,7 @@ horizontal or vertical distance, and/or strength.
 | State entry limit           | 2 per Chapter |
 | National entry limit        | 1 per Chapter |
 | Portfolio required          | No            |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | Yes           |

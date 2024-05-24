@@ -20,7 +20,7 @@ portfolio, the portfolio presentation, and interview responses.
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 1 per Chapter |
 | Portfolio required          | Yes           |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

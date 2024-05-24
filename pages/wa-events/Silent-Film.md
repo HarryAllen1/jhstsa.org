@@ -16,7 +16,7 @@ This is a Washington Only event. Washington Only events typically have smaller c
 | State entry limit           | 2 per Chapter |
 | National entry limit        | N/A           |
 | Portfolio required          | Yes           |
-| Early entry                 | Yes           |
+| [Early entry](/#terms)      | Yes           |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

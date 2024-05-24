@@ -16,7 +16,7 @@ an objective test. Semifinalist teams participate in a question/response, head-t
 | State entry limit           | 1 per Chapter |
 | National entry limit        | 1 per Chapter |
 | Portfolio required          | No            |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | Yes           |
 | [Onsite Only](/#terms)      | Yes           |
 | [Toolbox required](/#terms) | No            |

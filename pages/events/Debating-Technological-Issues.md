@@ -1,5 +1,9 @@
 # Debating Technological Issues
 
+::: warning Washington-specific modification
+There will be no semifinal round.
+:::
+
 Participants research the annual topic and subtopics and
 prepare for a debate against a team from another chapter.
 Teams are instructed to take either the pro or con side of a
@@ -19,7 +23,7 @@ a team’s debate determines semifinalists and finalists.
 | State entry limit           | 2 per Chapter |
 | National entry limit        | 3 per State   |
 | Portfolio required          | No            |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

@@ -1,6 +1,6 @@
 # Drone Challenge (UAV)
 
-::: warning Washington-specific modification
+::: warning Washington-specific modifications
 
 1. As a safety guideline, all drone teams will need to provide a plastic container with a lid to house their drone. We will use these containers to prevent teams from having to remove the drone propellers so many times. However, the team will still have to demonstrate that their props are removable. This is a Go/No Go requirement. Not having the container will result in disqualification.
 2. Teams will have 15 minutes in the prep/practice area, rather than 30.
@@ -26,7 +26,7 @@ interview.
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 3 per State   |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |

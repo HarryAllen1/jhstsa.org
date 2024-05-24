@@ -17,7 +17,7 @@ interview.
 | State entry limit           | 3 per Chapter                                |
 | National entry limit        | 3 per State                                  |
 | Portfolio required          | Yes                                          |
-| Early entry                 | Yes (Documentation Portfolio, Digital Video) |
+| [Early entry](/#terms)      | Yes (Documentation Portfolio, Digital Video) |
 | Requires test               | No                                           |
 | [Onsite Only](/#terms)      | No                                           |
 | [Toolbox required](/#terms) | No                                           |

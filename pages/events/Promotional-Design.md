@@ -18,7 +18,7 @@ documentation. Semifinalists demonstrate publishing competency in an onsite tech
 | State entry limit           | 3 per Chapter |
 | National entry limit        | 3 per State   |
 | Portfolio required          | Yes           |
-| Early entry                 | No            |
+| [Early entry](/#terms)      | No            |
 | Requires test               | No            |
 | [Onsite Only](/#terms)      | No            |
 | [Toolbox required](/#terms) | No            |
