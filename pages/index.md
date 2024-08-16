@@ -10,7 +10,7 @@ National events are curated by National TSA. Washington only events are curated 
 
 These events operate in mostly the same way. However, National events are typically more popular, and are therefore more competitive. If you want to compete in the National conference, you must place in the top 3\* in a National event.
 
-\*Exceptions are [Fashion Design and Technology](./events/Fashion-Design-and+Technology.md) and [Video Game Design](./events/Video-Game-Design.md). For these events, you only have to place in the top 5.
+\*Exceptions are [Fashion Design and Technology](./events/Fashion-Design-and-Technology.md) and [Video Game Design](./events/Video-Game-Design.md). For these events, you only have to place in the top 5.
 
 ## Terms
 
