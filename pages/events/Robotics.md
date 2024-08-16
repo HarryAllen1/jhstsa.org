@@ -6,9 +6,9 @@ This event has been moved from a being Washington-only event to being a National
 
 Participants design, build, document, and test a robot assembled using open-sourced parts according to stated specifications and to meet the challenge of the yearly theme/problem.
 
-[Event Guide](??)
+[Event Guide](https://tsaweb.org/)
 
-[Washington TSA page](??)
+[Washington TSA page](https://tsaweb.org/)
 
 ## Theme
 
