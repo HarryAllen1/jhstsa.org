@@ -15,17 +15,24 @@ a team’s debate determines semifinalists and finalists.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/debating-technological-issues)
 
+## Theme
+
+**Topic**: Biotechnology
+
+- **Subtopic 1**: Biometric identification poses a security threat within the digital world.
+- **Subtopic 2**: Gene-editing biotechnologies such as the CRISPR-Cas9 system, set a dangerous precedent for science applications in healthcare.
+- **Subtopic 3**: Brain interface technologies, such as Elon Musk’s Neuralink, provide a unique and beneficial solution to mental health issues.
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2             |
-| State entry limit           | 2 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | No            |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2             |
+| State entry limit                            | 2 per Chapter |
+| National entry limit                         | 3 per State   |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

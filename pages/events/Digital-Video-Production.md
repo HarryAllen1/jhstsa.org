@@ -9,17 +9,20 @@ interview.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/digital-video-production)
 
+## Theme
+
+Create a short film that includes at least 30 seconds of animation
+
 ## Information
 
-|                             |                                              |
-| --------------------------- | -------------------------------------------- |
-| Team size                   | 1-6                                          |
-| State entry limit           | 3 per Chapter                                |
-| National entry limit        | 3 per State                                  |
-| Portfolio required          | Yes                                          |
-| [Early entry](/#terms)      | Yes (Documentation Portfolio, Digital Video) |
-| Requires test               | No                                           |
-| [Onsite Only](/#terms)      | No                                           |
-| [Toolbox required](/#terms) | No                                           |
-| [Presentation](/#terms)     | No                                           |
-| [Interview](/#terms)        | Yes                                          |
+|                                              |                                              |
+| -------------------------------------------- | -------------------------------------------- |
+| Team size                                    | 1-6                                          |
+| State entry limit                            | 3 per Chapter                                |
+| National entry limit                         | 3 per State                                  |
+| Portfolio required                           | Yes                                          |
+| [Early entry](/#terms)                       | Yes (Documentation Portfolio, Digital Video) |
+| Requires test                                | No                                           |
+| [Onsite Only](/#terms)                       | No                                           |
+| [Toolbox required](/#terms)                  | No                                           |
+| [Presentation](/#terms)/[interview](/#terms) | Yes                                          |

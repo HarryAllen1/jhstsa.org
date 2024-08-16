@@ -10,17 +10,16 @@ begin the SSS journey (ask Mr. Shelton to do this for you).
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/senior-solar-sprint)
 
-# Information
+## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-4           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-4           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

@@ -10,15 +10,15 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-6           |
-| State entry limit           | 2 per Chapter |
-| National entry limit        | N/A           |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 2 per Chapter |
+| National entry limit                         | N/A           |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | No            |
+| [Interview](/#terms)                         | Yes           |

@@ -10,17 +10,20 @@ gained during the development of the game.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/video-game-design)
 
-# Information
+## Theme
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 5 per State   |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+Kid’s card game, 2 to 4 players, playable on one (1) screen and one (1) keyboard at a time
+
+## Information
+
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 5 per State   |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

@@ -12,17 +12,20 @@ interviewed.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/music-production)
 
+## Theme
+
+Create a musical piece that will be used as the background music for a role-playing game (RPG) video game. It will be played during the parts of the game when the player’s character is visiting the blacksmith.
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 3 per State   |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

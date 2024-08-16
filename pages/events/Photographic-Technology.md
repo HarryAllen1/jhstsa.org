@@ -12,17 +12,20 @@ portfolio, the portfolio presentation, and interview responses.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/photographic-technology)
 
-# Information
+## Theme
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | Yes           |
+Using five photographs, tell a story about your journey in TSA. The type of photo (color, black and white, macro, still life, and student choice) should add to the impact of the story you are sharing.
+
+## Information
+
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

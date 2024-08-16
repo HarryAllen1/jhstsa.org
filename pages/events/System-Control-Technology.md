@@ -11,17 +11,16 @@ operate the model.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/system-control-technology)
 
-# Information
+## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 3             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 2 per State   |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 3             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 2 per State   |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

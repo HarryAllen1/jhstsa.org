@@ -12,15 +12,15 @@ Participants use digital art and design skills in the production of conceptual a
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | N/A           |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | N/A           |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | No            |
+| [Interview](/#terms)                         | Yes           |

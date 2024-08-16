@@ -10,17 +10,20 @@ give a product “sales pitch” and demonstration.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/manufacturing-prototype)
 
+## Theme
+
+An item that can be used as picture frames for a home or office while also serving another purpose
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | No            |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

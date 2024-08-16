@@ -10,17 +10,20 @@ accompanying required slide deck.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/prepared-presentation)
 
-# Information
+## Theme
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1             |
-| State entry limit           | 2 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | No            |
+Develop a presentation that highlights the field of digital music production, including the timeline of its origin, development, fruition, and release of the technology on a global scale.
+
+## Information
+
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1             |
+| State entry limit                            | 2 per Chapter |
+| National entry limit                         | 3 per State   |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

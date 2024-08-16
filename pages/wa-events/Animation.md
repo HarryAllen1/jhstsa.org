@@ -12,15 +12,15 @@ Using 3D, 2D, and/or stop-motion animation tools, participants develop an animat
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1-4           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | N/A           |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1-4           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | N/A           |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | No            |
+| [Interview](/#terms)                         | Yes           |

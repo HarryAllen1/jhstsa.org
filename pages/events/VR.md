@@ -8,17 +8,20 @@ addresses the annual theme. Semifinalists deliver a presentation about their vis
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/virtual-reality-visualization)
 
-# Information
+## Theme
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | Yes           |
+Create a virtual reality (VR) simulation of a family vacation destination that includes experiences and activities that appeal to both young children and teenagers.
+
+## Information
+
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

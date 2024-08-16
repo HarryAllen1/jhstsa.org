@@ -13,19 +13,22 @@ participate in an interview.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/childrens-stories)
 
+## Theme
+
+Create a “touch and feel” or interactive storybook that introduces TSA and its benefits to young readers in an engaging manner.
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)\*    | Yes           |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 3 per State   |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)\*                     | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |
 
 \*Children's stories is only an early entry event for the State conference. For the National conference, Children's stories is _not_ an early entry event.

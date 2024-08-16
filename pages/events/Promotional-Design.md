@@ -10,17 +10,20 @@ documentation. Semifinalists demonstrate publishing competency in an onsite tech
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/promotional-design)
 
-# Information
+## Theme
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | No            |
+Branding materials for a fictitious restaurant; the four (4) Promotional Folder items are student choice.
+
+## Information
+
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 3 per State   |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | No            |

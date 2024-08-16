@@ -13,15 +13,14 @@ are aspects of the evaluation.
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 2 per Chapter |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | No            |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 2 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | No            |

@@ -17,20 +17,22 @@ of a data set provided in an onsite challenge.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/data-science-and-analytics)
 
+## Theme
+
+Identify and use a "Real Estate," "Housing," and/or "Community" related open-source data set for your analyses and research. In the scientific poster, cite the source of the data, including the URL/domain and file format.
+
 ## Information
 
-|                             |                                                                                           |
-| --------------------------- | ----------------------------------------------------------------------------------------- |
-| Team size                   | 1-2                                                                                       |
-| State entry limit           | 3 per Chapter                                                                             |
-| National entry limit        | 3 per State                                                                               |
-| Portfolio required          | Yes                                                                                       |
-| [Early entry](/#terms)\*    | Yes (Documentation Portfolio, Poster, and Photo/Film/Video Consent Forms (if applicable)) |
-| Requires test               | No                                                                                        |
-| [Onsite Only](/#terms)      | No                                                                                        |
-| [Toolbox required](/#terms) | No                                                                                        |
-| [Presentation](/#terms)     | Yes                                                                                       |
-| [Interview](/#terms)        | No\*\*                                                                                    |
+|                                              |                                                                                           |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Team size                                    | 1-2                                                                                       |
+| State entry limit                            | 3 per Chapter                                                                             |
+| National entry limit                         | 3 per State                                                                               |
+| Portfolio required                           | Yes                                                                                       |
+| [Early entry](/#terms)\*                     | Yes (Documentation Portfolio, Poster, and Photo/Film/Video Consent Forms (if applicable)) |
+| Requires test                                | No                                                                                        |
+| [Onsite Only](/#terms)                       | No                                                                                        |
+| [Toolbox required](/#terms)                  | No                                                                                        |
+| [Presentation](/#terms)/[interview](/#terms) | Yes                                                                                       |
 
 \* For the State conference, the poster must also be submitted for the early entry deadline. For the National conference, only the portfolio and consent forms are required.
-\*\*The presentation time given can also be used to respond to judges' questions.

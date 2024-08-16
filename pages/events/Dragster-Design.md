@@ -12,19 +12,22 @@ a double-elimination race and participate in an interview.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/dragster-design)
 
+## Theme
+
+Address weights and lengths only; there are no special design challenges.
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 1             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 2 per Chapter |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes\*         |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 1             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 2 per Chapter |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes\*         |
 
-\*There will be no interview at the State level.
+\*There will be no interview/presentation at the State level.

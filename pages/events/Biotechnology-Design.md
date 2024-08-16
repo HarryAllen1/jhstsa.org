@@ -10,16 +10,19 @@ interview.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/biotechnology-design)
 
+## Theme
+
+Tissue Engineering. Tissue Engineering is a biomedical engineering discipline that uses a combination of cells, engineering, materials methods, and suitable biochemical and physicochemical factors to restore, maintain, improve, or replace different types of biological tissues.
+
 ## Information
 
-|                         |               |
-| ----------------------- | ------------- |
-| Team size               | 2-6           |
-| State entry limit       | 3 per Chapter |
-| National entry limit    | 1 per Chapter |
-| Portfolio required      | Yes           |
-| [Early entry](/#terms)  | No            |
-| Requires test           | No            |
-| [Onsite Only](/#terms)  | No            |
-| [Presentation](/#terms) | Yes           |
-| [Interview](/#terms)    | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

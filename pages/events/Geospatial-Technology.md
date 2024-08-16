@@ -9,17 +9,20 @@ during a presentation/interview.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/geospatial-technology)
 
+## Theme
+
+Identity a disaster threat, natural or otherwise, that may impact your community. Develop an infographic that communicates hazard zones, evacuation routes, and resource distribution.
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-3           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-3           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

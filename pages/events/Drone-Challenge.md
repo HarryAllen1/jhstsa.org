@@ -20,15 +20,14 @@ interview.
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 3 per State   |
-| Portfolio required          | Yes           |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 3 per State   |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

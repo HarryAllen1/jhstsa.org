@@ -15,17 +15,20 @@ surrounding environment (a display).
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/animatronics)
 
+## Theme
+
+Following the specified requirements, create an animatronic exhibit for a public library that brings a book to life to excite young readers.
+
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2-6           |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | No            |
-| [Onsite Only](/#terms)      | No            |
-| [Toolbox required](/#terms) | No            |
-| [Presentation](/#terms)     | Yes           |
-| [Interview](/#terms)        | Yes           |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |

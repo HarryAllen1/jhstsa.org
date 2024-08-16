@@ -10,17 +10,22 @@ efficiency) determine both semifinalists and finalists.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/structural-design-and-engineering)
 
-# Information
+## Theme
 
-|                             |                |
-| --------------------------- | -------------- |
-| Team size                   | 2              |
-| State entry limit           | 15 per Chapter |
-| National entry limit        | 1 per Chapter  |
-| Portfolio required          | Yes            |
-| [Early entry](/#terms)      | No             |
-| Requires test               | No             |
-| [Onsite Only](/#terms)      | No             |
-| [Toolbox required](/#terms) | Yes            |
-| [Presentation](/#terms)     | No             |
-| [Interview](/#terms)        | No             |
+[Problem Statement](https://www.dropbox.com/scl/fi/5pmujdoexmjysawqenhtz/2025-Structural-Design-and-Engineering-Problem-Statement-Themes-and-Problems-Revised.pdf?rlkey=khcdn0n2njt713nrw2i3d5fx6&e=1&dl=0)
+
+[Verification Form](https://tsaweb.org/docs/default-source/competitions/hs-structural-verification-form.pdf?sfvrsn=dfee5b2b_1)
+
+## Information
+
+|                                              |                |
+| -------------------------------------------- | -------------- |
+| Team size                                    | 2              |
+| State entry limit                            | 15 per Chapter |
+| National entry limit                         | 1 per Chapter  |
+| Portfolio required                           | Yes            |
+| [Early entry](/#terms)                       | No             |
+| Requires test                                | No             |
+| [Onsite Only](/#terms)                       | No             |
+| [Toolbox required](/#terms)                  | Yes            |
+| [Presentation](/#terms)/[interview](/#terms) | No             |

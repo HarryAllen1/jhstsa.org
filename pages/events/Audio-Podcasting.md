@@ -11,16 +11,19 @@ elements. Semifinalists participate in an interview.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/audio-podcasting)
 
+## Theme
+
+Preparing to compete in a TSA event and/or preparing for your first TSA conference
+
 ## Information
 
-|                         |                                                 |
-| ----------------------- | ----------------------------------------------- |
-| Team size               | 1-6                                             |
-| State entry limit       | 3 per Chapter                                   |
-| National entry limit    | 3 per State                                     |
-| Portfolio required      | Yes                                             |
-| [Early entry](/#terms)  | Yes (Documentation Portfolio and Audio Podcast) |
-| Requires test           | No                                              |
-| [Onsite Only](/#terms)  | No                                              |
-| [Presentation](/#terms) | No                                              |
-| [Interview](/#terms)    | Yes                                             |
+|                                              |                                                 |
+| -------------------------------------------- | ----------------------------------------------- |
+| Team size                                    | 1-6                                             |
+| State entry limit                            | 3 per Chapter                                   |
+| National entry limit                         | 3 per State                                     |
+| Portfolio required                           | Yes                                             |
+| [Early entry](/#terms)                       | Yes (Documentation Portfolio and Audio Podcast) |
+| Requires test                                | No                                              |
+| [Onsite Only](/#terms)                       | No                                              |
+| [Presentation](/#terms)/[interview](/#terms) | Yes                                             |

@@ -11,15 +11,14 @@ forensic science through crime scene analysis, with the findings synthesized in 
 
 ## Information
 
-|                             |               |
-| --------------------------- | ------------- |
-| Team size                   | 2             |
-| State entry limit           | 3 per Chapter |
-| National entry limit        | 1 per Chapter |
-| Portfolio required          | No            |
-| [Early entry](/#terms)      | No            |
-| Requires test               | Yes           |
-| [Onsite Only](/#terms)      | Yes           |
-| [Toolbox required](/#terms) | Yes           |
-| [Presentation](/#terms)     | No            |
-| [Interview](/#terms)        | No            |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2             |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | No            |
+| Requires test                                | Yes           |
+| [Onsite Only](/#terms)                       | Yes           |
+| [Toolbox required](/#terms)                  | Yes           |
+| [Presentation](/#terms)/[interview](/#terms) | No            |
