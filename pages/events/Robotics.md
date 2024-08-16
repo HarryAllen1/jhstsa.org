@@ -4,11 +4,15 @@
 This event has been moved from a being Washington-only event to being a National event. Please read the event guide carefully.
 :::
 
-Students will design, build and test a remote controlled robot to carry out a specific challenge. Teams must be a minimum of two (2) and maximum of four (4) students. High School and Middle school will compete on different challenges. Robots may be constructed using recycled, salvaged and commercial parts. There is no specific platform or vendor required. Commercial kits can be used, combined, adapted, and re-engineered for the Design Challenge. Examples include, but are not limited to: VEX, LEGO, TETRIX, Fisher/Technic, Lynxmotion, HiTech and/or Arduino.
+Participants design, build, document, and test a robot assembled using open-sourced parts according to stated specifications and to meet the challenge of the yearly theme/problem.
 
 [Event Guide](??)
 
 [Washington TSA page](??)
+
+## Theme
+
+[Design Problem](https://www.dropbox.com/scl/fi/pi9c2gb69bxqtzhm54y2g/Robotics-2025.pdf?rlkey=8l1bjpkz5tuc91is0er2vq8eh&e=1&dl=0)
 
 ## Information
 

@@ -4,7 +4,7 @@
 This event has been moved from a being Washington-only event to being a National event. Please read the event guide carefully.
 :::
 
-Participants utilize written and verbal communication skills designed for a mass audience to convey a news story revolving around a designated theme in both a video broadcast (preliminary) and a digital written format (semiﬁnals).
+In response to an annual theme, participants use written and verbal communication skills to convey a news story in both a video broadcast (preliminary round) and a digital written format (semifinal round). Participants must demonstrate a strong understanding of journalism etiquette and the common practices of the field of mass media.
 
 [Event Guide](???)
 

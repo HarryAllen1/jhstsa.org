@@ -6,12 +6,7 @@ All entries (whether they make semifinals or not) will participate in a runway s
 ALL teams should write up a paragraph about their design, including student names and roles on the team, that will be read while they are modeling
 :::
 
-To address the annual theme, participants demonstrate
-expertise in fashion design principles by creating a wearable
-garment, garment patterns, and a documentation portfolio.
-Semifinalist teams present their garment designs (worn by
-team models), discuss the design process with evaluators, and
-respond to interview questions.
+To address the annual theme, participants demonstrate expertise in fashion design principles by creating a wearable garment, garment patterns, and a documentation portfolio. Semifinalist teams present their garment designs (worn by team models), discuss the design process with evaluators, and respond to interview questions.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Fashion%20Design%20and%20Technology.pdf)
 
