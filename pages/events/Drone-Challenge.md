@@ -13,6 +13,10 @@ Participants design, build, assemble, document, and test fly an open-source Unma
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/drone-challenge)
 
+## Theme
+
+[Dinosaur Rescue](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/uav-drone--dino-rescue--2025.pdf?sfvrsn=e91c2604_1)
+
 ## Information
 
 |                                              |               |
