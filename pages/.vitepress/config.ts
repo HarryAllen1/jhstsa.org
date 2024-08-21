@@ -52,6 +52,22 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Deadlines',
+        link: '/deadlines',
+        collapsed: false,
+        items: [
+          {
+            text: 'January Feedback',
+          },
+          {
+            text: 'Early Entry',
+          },
+          {
+            text: 'State Conference',
+          },
+        ],
+      },
+      {
         text: 'WA Events',
         collapsed: false,
         items: await waEvents(),
