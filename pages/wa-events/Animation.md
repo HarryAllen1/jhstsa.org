@@ -8,7 +8,7 @@ Using 3D, 2D, and/or stop-motion animation tools, participants develop an animat
 
 [Event Guide](https://www.washingtontsa.org/s/HS-Animation-23-24.pdf)
 
-[Washington TSA page](https://www.washingtontsa.org/washington-events)
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/animation)
 
 ## Information
 

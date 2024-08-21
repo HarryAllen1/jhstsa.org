@@ -8,7 +8,7 @@ Participants combine text, illustrations, charts, and graphics to communicate co
 
 [Event Guide](https://www.washingtontsa.org/s/HS-Infographic-23-24.pdf)
 
-[Washington TSA page](https://www.washingtontsa.org/washington-events)
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/infographic)
 
 ## Theme
 

@@ -16,7 +16,7 @@ This event incorporates elements of leadership, career research, resume developm
 
 [Event Guide](https://www.washingtontsa.org/s/HS-Career-Prep-23-24.pdf)
 
-[Washington TSA page](https://www.washingtontsa.org/washington-events)
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/career-prep)
 
 ## Theme
 

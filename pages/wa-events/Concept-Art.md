@@ -8,7 +8,7 @@ Participants use digital art and design skills in the production of conceptual a
 
 [Event Guide](https://www.washingtontsa.org/s/HS-Concept-Art-23-24.pdf)
 
-[Washington TSA page](https://www.washingtontsa.org/washington-events)
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/concept-art)
 
 ## Information
 
