@@ -61,12 +61,15 @@ export default defineConfig({
         items: [
           {
             text: 'January Feedback',
+            link: '/deadlines/january',
           },
           {
             text: 'Early Entry',
+            link: '/deadlines/march',
           },
           {
             text: 'State Conference',
+            link: '/deadlines/april',
           },
         ],
       },
