@@ -10,6 +10,16 @@ Using 3D, 2D, and/or stop-motion animation tools, participants develop an animat
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/animation)
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students will submit completed documentation portfolio for scoring.
+
+### March 14th
+
+Students will submit completed entry.
+
 ## Information
 
 |                                              |               |

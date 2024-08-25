@@ -4,6 +4,19 @@ In order to view event guides, make sure you are logging into your LWSD account 
 
 If you notice incorrect information anywhere, feel free to contact a board member to change it. Alternatively, if you know how to use Github, click the "Edit this page on GitHub" link located at the bottom of every page.
 
+## Removed Events
+
+- **Chapter Team**: This event will not occur during the state conference. It will still be available at the National conference.
+- **Essays on Technology**
+
+## Modified Events
+
+- **Animatronics**: The National conference entry limit has changed.
+- **Audio Podcasting**: First names can now be used in the podcast.
+- **Career Prep**: This event now has a theme.
+- **Robotics**: This event was previously a Washington Only event (under the name Robotics Challenge), but is now a National event so will have a new event guide.
+- **STEM Mass Media**: This event was previously a Washington Only event, but is now a National event so will have a new event guide.
+
 ## National event vs. Washington only event
 
 National events are curated by National TSA. Washington only events are curated by Washington TSA and can only be competed in during the State conference.

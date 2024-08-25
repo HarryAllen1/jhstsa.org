@@ -6,6 +6,20 @@ Once participants receive the challenge details (required criteria, such as prop
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/on-demand-video)
 
+## Pre-conference Submission Requirements
+
+### January 23rd (optional)
+
+**Theme**: Athletic setting - create a video about women in sports
+
+**Dialogue**: It’s not fair.
+
+**Props**: ball, shoes, hair tie or headband
+
+Students create and upload a 60 second video, based on the above theme, line of dialogue and props. Upload video to any platform, and submit the URL link.
+
+Students are not required to meet this deadline for State Conference competition in this event. However, it is very much still recommended that you do so for feedback.
+
 ## Information
 
 |                                              |               |

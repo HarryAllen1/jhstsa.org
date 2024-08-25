@@ -6,6 +6,24 @@ Participants research a developing technology, prepare a video showing an applic
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/future-technology-teacher)
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+In preparation for this event, participants thoroughly research and select one (1) developed application that teachers can use in a classroom lesson. Participants create an instructional video demonstrating the functionality of the product and discussing how it can be used in a classroom lesson.
+
+Maximum length 8 minutes, no minimum length
+
+Students will upload video to the platform of their choice, and then submit the URL.
+
+**Note**: Students should use judge feedback to improve their instructional video prior to submitting the final version in March.
+
+### March 14th
+
+Students should submit their completed Instructional Video.
+
+**Note**: Semifinal lesson plan should be a classroom lesson, different than the instructional video, which is about a tech application teachers can use in a classroom.
+
 ## Information
 
 |                                              |               |

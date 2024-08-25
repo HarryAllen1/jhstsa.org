@@ -12,6 +12,12 @@ Participants use their knowledge of cutting-edge technologies, algorithm design,
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/software-development)
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit a detailed description of the societal need, and how their tool will meet that need, as a single PDF file.
+
 ## Information
 
 |                                              |               |

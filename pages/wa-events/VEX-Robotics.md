@@ -19,13 +19,21 @@ that assesses the efficiency and productivity of the robot.
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/vex-robotics)
 
-# Information
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit a link to a video of a robot practice run, to demonstrate that they have a working robot, and have started their programming.
+
+**Note**: This is a check-off event for January! Students must submit robot video, to show they are working on the event, but will not receive judge feedback.
+
+## Information
 
 |                             |               |
 | --------------------------- | ------------- |
 | Team size                   | 2-6           |
 | State entry limit           | 3 per Chapter |
-| National entry limit        | 3 per State   |
+| National entry limit        | N/A           |
 | Portfolio required          | No            |
 | [Early entry](/#terms)      | No            |
 | Requires test               | No            |

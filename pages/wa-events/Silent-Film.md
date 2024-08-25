@@ -16,6 +16,14 @@ NOTE: Silent film means NO spoken words that can be heard. People can be talking
 
 Music and Technology
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit the Documentation Portfolio for scoring.
+
+Scoring will be based on items a-e of the portfolio.
+
 ## Information
 
 |                                              |               |

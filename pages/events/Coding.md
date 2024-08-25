@@ -20,6 +20,18 @@ The following programming languages may be used to complete the assigned problem
 - Rust version 1.75
 - Swift version 5.10
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Each student must take the sample Coding test. Students should complete the test without outside assistance or resources.
+
+(if you see this, contact Harry for this to be filled out)
+
+Each student should take the test individually. Students will need their Competitor ID number from their advisor.
+
+Advisors will receive student scores on Jan. 12.
+
 ## Information
 
 |                                              |               |

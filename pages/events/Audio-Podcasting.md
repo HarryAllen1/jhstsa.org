@@ -1,5 +1,9 @@
 # Audio Podcasting
 
+::: warning Event Update
+First names can now be used in the podcast.
+:::
+
 Participants use digital audio technology to create original content for a podcast piece that addresses the annual theme. The podcast must feature high level storytelling techniques, voice acting, and folly sound effects; the full entry must include documentation of the podcast development process and elements. Semifinalists participate in an interview.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20Audio%20Podcasting.pdf)
@@ -9,6 +13,21 @@ Participants use digital audio technology to create original content for a podca
 ## Theme
 
 Preparing to compete in a TSA event and/or preparing for your first TSA conference
+
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students will submit the following:
+
+1. Sketch/draft of podcast cover art
+2. Completed script for podcast
+
+Students will upload 1-2 files, saved as PDFs.
+
+### March 14th
+
+Students should submit their completed podcast and portfolio.
 
 ## Information
 

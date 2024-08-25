@@ -8,9 +8,17 @@ Participants apply the principles of structural engineering to design and constr
 
 ## Theme
 
-[Problem Statement](https://www.dropbox.com/scl/fi/5pmujdoexmjysawqenhtz/2025-Structural-Design-and-Engineering-Problem-Statement-Themes-and-Problems-Revised.pdf?rlkey=khcdn0n2njt713nrw2i3d5fx6&e=1&dl=0)
+[Problem Statement](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/2025-structural-design-and-engineering-problem-statement.pdf?sfvrsn=8e72e908_7)
 
 [Verification Form](https://tsaweb.org/docs/default-source/competitions/hs-structural-verification-form.pdf?sfvrsn=dfee5b2b_1)
+
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit structural drawing(s) and photos of test structures, as a multi-page PDF document.
+
+**Note**: Students will only receive judge feedback if they submit detailed structural drawings, and clear photos. Otherwise, it will just be a check-off.
 
 ## Information
 

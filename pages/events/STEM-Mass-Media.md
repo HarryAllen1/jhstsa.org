@@ -18,16 +18,22 @@ Based on the following headline (link below), develop a news broadcast that incl
 
 [https://www.eurekalert.org/news-releases/1039721](https://www.eurekalert.org/news-releases/1039721)
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit completed Video News Broadcast for scoring.
+
 ## Information
 
-|                                              |               |
-| -------------------------------------------- | ------------- |
-| Team size                                    | 2-3           |
-| State entry limit                            | ??            |
-| National entry limit                         | 1 per chapter |
-| Portfolio required                           | ??            |
-| [Early entry](/#terms)                       | ??            |
-| Requires test                                | ??            |
-| [Onsite Only](/#terms)                       | ??            |
-| [Toolbox required](/#terms)                  | ??            |
-| [Presentation](/#terms)/[interview](/#terms) | ??            |
+|                                              |                |
+| -------------------------------------------- | -------------- |
+| Team size                                    | 2-3            |
+| State entry limit                            | 15 per chapter |
+| National entry limit                         | 1 per chapter  |
+| Portfolio required                           | ??             |
+| [Early entry](/#terms)                       | ??             |
+| Requires test                                | ??             |
+| [Onsite Only](/#terms)                       | ??             |
+| [Toolbox required](/#terms)                  | ??             |
+| [Presentation](/#terms)/[interview](/#terms) | ??             |

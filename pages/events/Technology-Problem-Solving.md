@@ -6,6 +6,14 @@ Participants use problem-solving skills to design and construct a finite solutio
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/technology-problem-solving)
 
+## Pre-conference Submission Requirements
+
+### January 23rd (optional)
+
+Students should complete the challenge within a two hour time window, and then upload a URL, following the challenge directions.
+
+Students are not required to meet this deadline for State Conference competition in this event.
+
 ## Information
 
 |                                              |               |

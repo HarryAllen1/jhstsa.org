@@ -6,6 +6,16 @@ Participants design, build, fly, and adjust (trim) a rubber-band powered model a
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/flight-endurance)
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit designs, and photos of test built planes, saved as 1 multi-page PDF file.
+
+Students also upload a flight test video to any platform, and submit the URL.
+
+**Note**: This is a check-off event for January! Students must submit design sketches and photos, and a flight test video, to show they are working on the event, but will not receive judge feedback.
+
 ## Information
 
 |                                              |               |

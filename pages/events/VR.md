@@ -10,6 +10,16 @@ Participants use video and 3D computer graphics tools and design processes to cr
 
 Create a virtual reality (VR) simulation of a family vacation destination that includes experiences and activities that appeal to both young children and teenagers.
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students will submit a pdf file containing the following:
+
+- Description of purpose of visualization
+- Handdrawn storyboard of the visualization
+- List of resources
+
 ## Information
 
 |                                              |               |

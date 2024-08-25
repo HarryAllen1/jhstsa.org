@@ -24,6 +24,9 @@ export default defineConfig({
   metaChunk: true,
   cleanUrls: true,
   lastUpdated: true,
+  markdown: {
+    math: true,
+  },
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   themeConfig: {
     search: {

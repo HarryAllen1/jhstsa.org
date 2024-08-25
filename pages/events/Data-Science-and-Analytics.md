@@ -19,6 +19,18 @@ Participants identify a societal issue, collect or compile data from various sou
 
 Identify and use a "Real Estate," "Housing," and/or "Community" related open-source data set for your analyses and research. In the scientific poster, cite the source of the data, including the URL/domain and file format.
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit their completed portfolio as a pdf file.
+
+Students will submit a second, separate, digital poster file
+
+### March 14th
+
+Students should submit their completed portfolio and poster.
+
 ## Information
 
 |                                              |                                                                                           |

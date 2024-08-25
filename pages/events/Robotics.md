@@ -12,18 +12,26 @@ Participants design, build, document, and test a robot assembled using open-sour
 
 ## Theme
 
-[Design Problem](https://www.dropbox.com/scl/fi/pi9c2gb69bxqtzhm54y2g/Robotics-2025.pdf?rlkey=8l1bjpkz5tuc91is0er2vq8eh&e=1&dl=0)
+[Design Problem](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/robotics-2025_design-problem.pdf?sfvrsn=23a81353_2)
+
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit a link to a video of the robot operating within a portion of the course, to demonstrate that they have a working robot, and have begun working on accomplishing tasks.
+
+**Note**: This is a check-off event for January! Students must submit robot video, to show they are working on the event, but will not receive judge feedback.
 
 ## Information
 
-|                                              |             |
-| -------------------------------------------- | ----------- |
-| Team size                                    | 2-6         |
-| State entry limit                            | ??          |
-| National entry limit                         | 3 per state |
-| Portfolio required                           | ??          |
-| [Early entry](/#terms)                       | ??          |
-| Requires test                                | ??          |
-| [Onsite Only](/#terms)                       | ??          |
-| [Toolbox required](/#terms)                  | ??          |
-| [Presentation](/#terms)/[interview](/#terms) | ??          |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-6           |
+| State entry limit                            | 3 per chapter |
+| National entry limit                         | 3 per state   |
+| Portfolio required                           | No            |
+| [Early entry](/#terms)                       | ??            |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Toolbox required](/#terms)                  | No            |
+| [Presentation](/#terms)/[interview](/#terms) | ??            |

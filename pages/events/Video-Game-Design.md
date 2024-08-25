@@ -10,6 +10,12 @@ Participants design, build, and launch an E-rated online video game – with acc
 
 Kid’s card game, 2 to 4 players, playable on one (1) screen and one (1) keyboard at a time
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students will submit a link to their video game, at whatever stage it is in development.
+
 ## Information
 
 |                                              |               |

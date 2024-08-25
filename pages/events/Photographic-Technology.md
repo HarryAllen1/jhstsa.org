@@ -10,6 +10,16 @@ Participants produce a photographic portfolio - demonstrating expertise in photo
 
 Using five photographs, tell a story about your journey in TSA. The type of photo (color, black and white, macro, still life, and student choice) should add to the impact of the story you are sharing.
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Submit 4 photos in a single PDF.
+
+### March 14th
+
+Students submit final portfolio as a pdf file
+
 ## Information
 
 |                                              |               |

@@ -10,6 +10,12 @@ To address the issue presented in an annual theme, participants interpret geospa
 
 Identity a disaster threat, natural or otherwise, that may impact your community. Develop an infographic that communicates hazard zones, evacuation routes, and resource distribution.
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Students submit their research, analysis, and representation of data as 1 multi-page PDF file.
+
 ## Information
 
 |                                              |               |

@@ -18,6 +18,14 @@ Participants research the annual topic and subtopics and prepare for a debate ag
 - **Subtopic 2**: Gene-editing biotechnologies such as the CRISPR-Cas9 system, set a dangerous precedent for science applications in healthcare.
 - **Subtopic 3**: Brain interface technologies, such as Elon Musk’s Neuralink, provide a unique and beneficial solution to mental health issues.
 
+## Pre-conference Submission Requirements
+
+### January 23rd
+
+Teams choose one of the subtopics, and either pro or con, and then conduct research. Create a list of references, and record a 2-minute argument.
+
+Upload a pdf file of the references, and a URL link for the video.
+
 ## Information
 
 |                                              |               |
