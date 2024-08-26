@@ -45,12 +45,18 @@ export default defineConfig({
     },
     logo: '/logo.png',
     nav: [
-      { text: 'Home', link: '/' },
+      {
+        text: 'Home',
+        link: '/',
+      },
       {
         text: 'Forms',
         link: 'https://lwsd.sharepoint.com/:f:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Forms',
       },
-      { text: 'Team Creation', link: 'https://teaming.jhstsa.org' },
+      {
+        text: 'Team Creation',
+        link: 'https://teaming.jhstsa.org',
+      },
     ],
 
     sidebar: [
