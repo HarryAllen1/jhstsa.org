@@ -23,7 +23,9 @@ Participants design, build, assemble, document, and test fly an open-source Unma
 
 Students upload a video of their working drone to a video platform of their choice. They then submit the URL for the video.
 
-**Note**: This is a check-off deadline; no judge feedback will be returned.
+::: info
+This is a check-off deadline; no judge feedback will be returned.
+:::
 
 ## Information
 

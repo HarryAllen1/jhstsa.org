@@ -18,6 +18,10 @@ Participants design, build, and launch a website that addresses the annual chall
 
 Students submit a list of pages, concepts, purpose and links. Students submit link to website at whatever stage it is.
 
+### March 14th
+
+Students will submit link to completed website, which must include page links to the student copyright checklist, and the student work log.
+
 ## Information
 
 |                                              |               |

@@ -1,6 +1,6 @@
 # On Demand Video
 
-Once participants receive the challenge details (required criteria, such as props and a line of dialogue) at the national TSA conference, they have 36 hours to produce a 60-second film that showcases video skills, tools, and communication processes. The quality of the completed video production determines the finalists.
+Once participants receive the challenge details (required criteria, such as props and a line of dialogue) at the state/national TSA conference, they have 36 hours to produce a 60-second film that showcases video skills, tools, and communication processes. The quality of the completed video production determines the finalists.
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/HS%20-%20On%20Demand%20Video.pdf)
 
@@ -10,15 +10,11 @@ Once participants receive the challenge details (required criteria, such as prop
 
 ### January 23rd (optional)
 
-**Theme**: Athletic setting - create a video about women in sports
+TBD
 
-**Dialogue**: It’s not fair.
-
-**Props**: ball, shoes, hair tie or headband
-
-Students create and upload a 60 second video, based on the above theme, line of dialogue and props. Upload video to any platform, and submit the URL link.
-
+::: info
 Students are not required to meet this deadline for State Conference competition in this event. However, it is very much still recommended that you do so for feedback.
+:::
 
 ## Information
 

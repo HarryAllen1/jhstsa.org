@@ -14,11 +14,11 @@ Develop a presentation that highlights the field of digital music production, in
 
 ### January 23rd (optional)
 
-January Prepared presentation prompt: Develop a presentation that highlights the field of digital music production, including the timeline of its origin, development, fruition, and release of the technology on a global scale.
+TBD
 
-Students submit an outline of their presentation, and at least three slides, using the above prompt.
-
+::: info
 Students are not required to meet this deadline for State Conference competition in this event. However, it is very much still recommended that you do so for feedback.
+:::
 
 ## Information
 

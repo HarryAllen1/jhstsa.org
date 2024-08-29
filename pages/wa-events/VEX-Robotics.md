@@ -25,7 +25,9 @@ that assesses the efficiency and productivity of the robot.
 
 Students submit a link to a video of a robot practice run, to demonstrate that they have a working robot, and have started their programming.
 
-**Note**: This is a check-off event for January! Students must submit robot video, to show they are working on the event, but will not receive judge feedback.
+::: info
+This is a check-off event for January! Students must submit robot video, to show they are working on the event, but will not receive judge feedback.
+:::
 
 ## Information
 

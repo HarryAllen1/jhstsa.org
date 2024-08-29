@@ -24,6 +24,10 @@ Based on the following headline (link below), develop a news broadcast that incl
 
 Students submit completed Video News Broadcast for scoring.
 
+### March 14th
+
+Students will submit their completed entry.
+
 ## Information
 
 |                                              |                |

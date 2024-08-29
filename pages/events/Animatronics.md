@@ -18,13 +18,11 @@ Following the specified requirements, create an animatronic exhibit for a public
 
 ### January 23rd
 
-Students should submit sketches, a parts list and details of 3 movements, as well as a summary answering these questions:
+Teams will submit a video of their device. Device will be scored on Model Appearance and Model Function in the rubric.
 
-- How is this an “animated” device versus a moving structure?
-- Does it respond to stimuli?
-- What have you tried that worked, and what hasn’t worked?
-
-**All documents should be saved together as 1 PDF file.**
+::: info
+Teams are able to keep working on their device after the qualifying deadline, if they qualify for the State Conference.
+:::
 
 ## Information
 

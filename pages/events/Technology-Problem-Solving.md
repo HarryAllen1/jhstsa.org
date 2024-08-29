@@ -12,7 +12,9 @@ Participants use problem-solving skills to design and construct a finite solutio
 
 Students should complete the challenge within a two hour time window, and then upload a URL, following the challenge directions.
 
+::: info
 Students are not required to meet this deadline for State Conference competition in this event.
+:::
 
 ## Information
 

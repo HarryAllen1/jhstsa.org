@@ -10,6 +10,8 @@ Participants take a test of basic forensic science to qualify for the semifinal 
 
 ### January 23rd
 
+TBD
+
 Students should spend a maximum of 40 minutes sketching the scene, analyzing the challenge and typing up their notes, to simulate the March challenge. Submit notes as a pdf file.
 
 Forensics Challenge

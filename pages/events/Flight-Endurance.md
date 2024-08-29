@@ -14,7 +14,9 @@ Students submit designs, and photos of test built planes, saved as 1 multi-page 
 
 Students also upload a flight test video to any platform, and submit the URL.
 
-**Note**: This is a check-off event for January! Students must submit design sketches and photos, and a flight test video, to show they are working on the event, but will not receive judge feedback.
+:::info
+This is a check-off event for January! Students must submit design sketches and photos, and a flight test video, to show they are working on the event, but will not receive judge feedback.
+:::
 
 ## Information
 

@@ -12,6 +12,8 @@ Manage the nitrogen cycle
 
 ## Pre-conference Submission Requirements
 
+### January 23rd
+
 Students submit images of their display and model, along with a detailed summary of their project/research, saved as a single, multi-page PDF file.
 
 ## Information

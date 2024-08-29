@@ -18,7 +18,7 @@ In response to the annual design challenge, participants develop a set of archit
 
 ### January 23rd
 
-Students will submit sketches and CAD drawings of the home, and photos of the model.
+Students will submit their portfolio, items a-f, for scoring. Items g-j are not required, but may be included.
 
 Students will submit as a single, multi-page PDF document.
 

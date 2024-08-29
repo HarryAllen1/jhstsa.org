@@ -18,7 +18,9 @@ Participants apply the principles of structural engineering to design and constr
 
 Students submit structural drawing(s) and photos of test structures, as a multi-page PDF document.
 
-**Note**: Students will only receive judge feedback if they submit detailed structural drawings, and clear photos. Otherwise, it will just be a check-off.
+::: info
+Students will only receive judge feedback if they submit detailed structural drawings, and clear photos. Otherwise, it will just be a check-off.
+:::
 
 ## Information
 

@@ -16,7 +16,8 @@ Create a musical piece that will be used as the background music for a role-play
 
 Students will upload their musical file to any platform, and then submit a URL link to their musical piece.
 
-**Note**: A lot of what gets submitted is random computer generated sound, not music. It is neither energizing nor interesting.
+::: warning
+A lot of what gets submitted is random computer generated sound, not music. It is neither energizing nor interesting.
 
 Before creating/submitting your musical piece, ask yourself these questions:
 
@@ -24,6 +25,8 @@ Before creating/submitting your musical piece, ask yourself these questions:
 - If this music was played just before the Awards Session started, would it energize students, or would they ignore it as background sound?
 - Could this music be used for an exciting part of the soundtrack for an action movie?
 - Are the judges going to listen all the way through, or turn it off after 15 seconds and submit their scores?
+
+:::
 
 ### March 14th
 

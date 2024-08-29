@@ -8,7 +8,9 @@ Participants select a technology-related or TSA topic from among three topic car
 
 ## Pre-conference Submission Requirements
 
-(to be filled out later)
+### January 23rd
+
+(TBD)
 
 Select one of the three topics. Take 15 minutes to write notes, and then video your speech, upload it to the platform of your choice, and submit the URL link.
 

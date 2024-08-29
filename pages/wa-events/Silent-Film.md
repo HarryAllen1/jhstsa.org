@@ -6,7 +6,9 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 Participants use video production skills to create a “silent” movie and a musical score to accompany the film. Silent films encourage students to think about music and its application to other forms of art and technology.
 
-NOTE: Silent film means NO spoken words that can be heard. People can be talking in your film, but should never be heard.
+::: warning
+Silent film means NO spoken words that can be heard. People can be talking in your film, but should never be heard.
+:::
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Event%20Guides/Washington%20Only%20Events/Silent%20Film.pdf)
 
@@ -23,6 +25,10 @@ Music and Technology
 Students submit the Documentation Portfolio for scoring.
 
 Scoring will be based on items a-e of the portfolio.
+
+### March 14th
+
+Students will submit their completed entry.
 
 ## Information
 

@@ -20,7 +20,9 @@ This event incorporates elements of leadership, career research, resume developm
 
 ## Theme
 
-_NOTE: Select an **entry-level** job in one of these fields_
+::: info
+Select an **entry-level** job in one of these fields
+:::
 
 Select a career from one (1) of the following:
 
