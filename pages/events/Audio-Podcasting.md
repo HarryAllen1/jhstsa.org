@@ -18,12 +18,11 @@ Preparing to compete in a TSA event and/or preparing for your first TSA conferen
 
 ### January 23rd
 
-Students will submit the following:
+Students will submit their audio podcast for judging.
 
-1. Sketch/draft of podcast cover art
-2. Completed script for podcast
-
-Students will upload 1-2 files, saved as PDFs.
+::: info
+Students may make changes to podcast after January judging is complete.
+:::
 
 ### March 14th
 
