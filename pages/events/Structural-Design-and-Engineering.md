@@ -12,16 +12,6 @@ Participants apply the principles of structural engineering to design and constr
 
 [Verification Form](https://tsaweb.org/docs/default-source/competitions/hs-structural-verification-form.pdf?sfvrsn=dfee5b2b_1)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit structural drawing(s) and photos of test structures, as a multi-page PDF document.
-
-::: info
-Students will only receive judge feedback if they submit detailed structural drawings, and clear photos. Otherwise, it will just be a check-off.
-:::
-
 ## Information
 
 |                                              |                |

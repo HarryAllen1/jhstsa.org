@@ -10,15 +10,6 @@ Participants design, fabricate, and use Computer Integrated Manufacturing (CIM) 
 
 An item that can be used as picture frames for a home or office while also serving another purpose
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit a pdf file including the following:
-
-- Description of item and it’s usage.
-- Sketches and/or photos of the prototype
-
 ## Information
 
 |                                              |               |

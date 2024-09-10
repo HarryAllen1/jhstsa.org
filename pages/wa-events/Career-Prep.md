@@ -31,12 +31,6 @@ Select a career from one (1) of the following:
 - Machine Learning Engineer
 - Nurse Practitioner
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit cover letter and resume (in that order) as a single PDF document.
-
 ## Information
 
 |                                              |               |

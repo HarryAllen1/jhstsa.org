@@ -14,20 +14,6 @@ Participants use digital audio technology to create original content for a podca
 
 Preparing to compete in a TSA event and/or preparing for your first TSA conference
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit their audio podcast for judging.
-
-::: info
-Students may make changes to podcast after January judging is complete.
-:::
-
-### March 14th
-
-Students should submit their completed podcast and portfolio.
-
 ## Information
 
 |                                              |                                                 |

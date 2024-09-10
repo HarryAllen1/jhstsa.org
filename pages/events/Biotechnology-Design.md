@@ -10,12 +10,6 @@ Participants select a contemporary biotechnology problem that addresses the annu
 
 Tissue Engineering. Tissue Engineering is a biomedical engineering discipline that uses a combination of cells, engineering, materials methods, and suitable biochemical and physicochemical factors to restore, maintain, improve, or replace different types of biological tissues.
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students should submit completed portfolio as a PDF file.
-
 ## Information
 
 |                                              |               |

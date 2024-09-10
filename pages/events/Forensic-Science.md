@@ -6,22 +6,6 @@ Participants take a test of basic forensic science to qualify for the semifinal 
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/forensic-science)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-TBD
-
-Students should spend a maximum of 40 minutes sketching the scene, analyzing the challenge and typing up their notes, to simulate the March challenge. Submit notes as a pdf file.
-
-Forensics Challenge
-
-Watch challenge video. Sketch crime scene, with notes of where and what evidence you would document.
-
-Link to Forensics test
-
-EACH student on the team must also take the Forensics test. Students should complete the test without outside resources, in 1 hour. Each student should take the test individually.
-
 ## Information
 
 |                                              |               |

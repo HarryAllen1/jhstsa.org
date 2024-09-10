@@ -18,16 +18,6 @@ Based on the following headline (link below), develop a news broadcast that incl
 
 [https://www.eurekalert.org/news-releases/1039721](https://www.eurekalert.org/news-releases/1039721)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit completed Video News Broadcast for scoring.
-
-### March 14th
-
-Students will submit their completed entry.
-
 ## Information
 
 |                                              |                |

@@ -14,14 +14,6 @@ In response to the annual design challenge, participants develop a set of archit
 
 [Design problem](https://www.dropbox.com/scl/fi/s83ky98jrrpgo9ohdv6vz/Architectural-Design-2025-Design-Problem-Museum-Revised.pdf?rlkey=yx7eppihotrl7m4x1h2ou7w7r&e=1&dl=0)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit their portfolio, items a-f, for scoring. Items g-j are not required, but may be included.
-
-Students will submit as a single, multi-page PDF document.
-
 ## Information
 
 |                                              |               |

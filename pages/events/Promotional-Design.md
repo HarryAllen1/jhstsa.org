@@ -10,12 +10,6 @@ Participants use computerized graphic communications layout and design skills to
 
 Branding materials for a fictitious restaurant; the four (4) Promotional Folder items are student choice.
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit 1 file containing images of the 2-pocket folder, and each of the promotional materials. Submit as a single multi-page PDF.
-
 ## Information
 
 |                                              |               |

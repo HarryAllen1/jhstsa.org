@@ -10,14 +10,6 @@ Participants use complex computer graphic skills, tools, and processes to respon
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/computer-aided-design-cad-engineering)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-(if you see this, contact Harry so this can be updated)
-
-Students will complete a drawing using the challenge, and upload it as a pdf file. Students should spend no more than 4 hours on the challenge.
-
 ## Information
 
 |                                              |               |

@@ -14,16 +14,6 @@ Participants design, build, document, and test a robot assembled using open-sour
 
 [Design Problem](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/robotics-2025_design-problem.pdf?sfvrsn=23a81353_2)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit a link to a video of the robot operating within a portion of the course, to demonstrate that they have a working robot, and have begun working on accomplishing tasks.
-
-::: info
-This is a check-off event for January! Students must submit robot video, to show they are working on the event, but will not receive judge feedback.
-:::
-
 ## Information
 
 |                                              |               |

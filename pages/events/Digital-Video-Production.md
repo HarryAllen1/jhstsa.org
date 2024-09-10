@@ -10,16 +10,6 @@ Participants develop and submit a digital video and a documentation portfolio (i
 
 Create a short film that includes at least 30 seconds of animation
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit a link to their completed video (or their preliminary video, whatever stage it is at). You may choose any video hosting site, such as an unlisted Youtube video, as long as it is online and accessible for viewing.
-
-### March 14th
-
-Students will submit a final video link, and the final portfolio as a pdf file.
-
 ## Information
 
 |                                              |                                              |

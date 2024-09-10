@@ -10,12 +10,6 @@ Participants research, design, and produce a scale model of a vehicle that compl
 
 Food trucks
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit images of model and display as a single, multipage PDF file.
-
 ## Information
 
 |                                              |               |

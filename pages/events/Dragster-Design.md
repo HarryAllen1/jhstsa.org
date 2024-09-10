@@ -14,10 +14,6 @@ Participants design, draw, and construct a $\text{CO}_2$-powered dragster that a
 
 Address weights and lengths only; there are no special design challenges.
 
-## Pre-conference Submission Requirements
-
-Students submit sketches and finalized technical drawing as a single, multipage PDF file.
-
 ## Information
 
 |                                              |               |

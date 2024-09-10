@@ -16,19 +16,6 @@ Participants combine text, illustrations, charts, and graphics to communicate co
 
 This infographic is intended to be printed and hung on the wall. Students can design EITHER a 36x48” or 18x96” graphic (submissions will be digital only).
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit their infographic
-
-- Using the Infographic portion of the rubric, students will be scored on their infographic design
-- Submission must show (at a minimum) the background, layout of images, information blocks, and design features
-
-### March 14th
-
-Students should submit their completed entry.
-
 ## Information
 
 |                                              |               |

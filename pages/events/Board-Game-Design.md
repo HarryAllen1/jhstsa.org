@@ -10,16 +10,6 @@ Participants develop, build, and package a board game that focuses on a subject 
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/board-game-design)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students should submit a description of their game and how it is played, and photos of the game design, saved as a multi-page PDF file.
-
-### March 14th
-
-Students should submit their completed portfolio.
-
 ## Information
 
 |                                              |                               |

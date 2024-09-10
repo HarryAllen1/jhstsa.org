@@ -6,16 +6,6 @@ The Senior Solar Sprint (SSS) competition is managed by TSA. Students apply scie
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/senior-solar-sprint)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit a pdf file which includes the following:
-
-- Sketches of car design
-- Design drawings
-- List of materials and costs
-
 ## Information
 
 |                                              |               |

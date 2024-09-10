@@ -6,12 +6,6 @@ Participants develop a solution to a problem (typically one from an industrial s
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/system-control-technology)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students analyze the above challenge, sketch ideas for a solution. Submit scans or photos of sketches as a single, multipage PDF.
-
 ## Information
 
 |                                              |               |

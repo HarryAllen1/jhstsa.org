@@ -6,16 +6,6 @@ Participants demonstrate their knowledge of TSA and concepts addressed in techno
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/technology-bowl)
 
-## Pre-conference Submission Requirements
-
-### January 23rd (optional)
-
-Students should complete the test without outside resources, in 1 hour. Each student should take the test individually.
-
-::: info
-Students are not required to meet this deadline for State Conference competition in this event. However, it is very much still recommended that you do so for practice.
-:::
-
 ## Information
 
 |                                              |               |

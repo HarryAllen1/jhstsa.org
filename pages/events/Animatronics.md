@@ -14,16 +14,6 @@ To address the annual design challenge, participants exhibit and demonstrate the
 
 Following the specified requirements, create an animatronic exhibit for a public library that brings a book to life to excite young readers.
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Teams will submit a video of their device. Device will be scored on Model Appearance and Model Function in the rubric.
-
-::: info
-Teams are able to keep working on their device after the qualifying deadline, if they qualify for the State Conference.
-:::
-
 ## Information
 
 |                                              |               |

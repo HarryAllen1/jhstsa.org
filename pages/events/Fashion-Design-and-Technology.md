@@ -18,12 +18,6 @@ Create a prototype of a marching band uniform for a performance with the theme o
 
 Teams will submit one (1) or two (2) garments for judging (top and bottom or one \[1\]-piece.) All required components must fit inside a 32-quart plastic container. Any accessories (hats, gloves, boots, etc.) may be used during semifinalist presentations, however, they are not submitted in the preliminary round.
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit sketches, photos of fabric(s), and patterns, saved as 1 multi-page pdf file.
-
 ## Information
 
 |                                              |               |

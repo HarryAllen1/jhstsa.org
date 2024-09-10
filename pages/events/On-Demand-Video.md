@@ -6,16 +6,6 @@ Once participants receive the challenge details (required criteria, such as prop
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/on-demand-video)
 
-## Pre-conference Submission Requirements
-
-### January 23rd (optional)
-
-TBD
-
-::: info
-Students are not required to meet this deadline for State Conference competition in this event. However, it is very much still recommended that you do so for feedback.
-:::
-
 ## Information
 
 |                                              |               |

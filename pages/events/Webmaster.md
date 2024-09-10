@@ -12,16 +12,6 @@ Participants design, build, and launch a website that addresses the annual chall
 
 **Challenge**: Design a website for a vegan/vegetarian restaurant. Showcase the restaurant’s approach (such as farm-to-table, preparation processes, and sustainability) to the food served in the restaurant.
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students submit a list of pages, concepts, purpose and links. Students submit link to website at whatever stage it is.
-
-### March 14th
-
-Students will submit link to completed website, which must include page links to the student copyright checklist, and the student work log.
-
 ## Information
 
 |                                              |               |

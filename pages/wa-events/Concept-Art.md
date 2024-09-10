@@ -14,16 +14,6 @@ Participants use digital art and design skills in the production of conceptual a
 
 Coming soon
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students will submit their portfolio. Students will be scored on items a-h of the documentation portfolio, including mood boards and rough sketches.
-
-### March 14th
-
-Students will submit their completed entry.
-
 ## Information
 
 |                                              |               |

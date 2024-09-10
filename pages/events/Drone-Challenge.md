@@ -17,16 +17,6 @@ Participants design, build, assemble, document, and test fly an open-source Unma
 
 [Dinosaur Rescue](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/uav-drone--dino-rescue--2025.pdf?sfvrsn=e91c2604_1)
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students upload a video of their working drone to a video platform of their choice. They then submit the URL for the video.
-
-::: info
-This is a check-off deadline; no judge feedback will be returned.
-:::
-
 ## Information
 
 |                                              |               |

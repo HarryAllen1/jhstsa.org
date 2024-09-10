@@ -14,16 +14,6 @@ In response to the annual theme, participants create an illustrated children’s
 
 Create a “touch and feel” or interactive storybook that introduces TSA and its benefits to young readers in an engaging manner.
 
-## Pre-conference Submission Requirements
-
-### January 23rd
-
-Students should submit story outline, design sketches, storyboard, materials list and any completed pages. Maximum of 2 pdf files allowed for upload.
-
-### March 14th
-
-Students should submit their completed portfolio.
-
 ## Information
 
 |                                              |               |
