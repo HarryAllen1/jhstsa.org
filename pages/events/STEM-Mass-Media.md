@@ -23,11 +23,11 @@ Based on the following headline (link below), develop a news broadcast that incl
 |                                              |                |
 | -------------------------------------------- | -------------- |
 | Team size                                    | 2-3            |
-| State entry limit                            | 15 per chapter |
-| National entry limit                         | 1 per chapter  |
-| Portfolio required                           | ??             |
-| [Early entry](/#terms)                       | ??             |
-| Requires test                                | ??             |
-| [Onsite Only](/#terms)                       | ??             |
-| [Toolbox required](/#terms)                  | ??             |
-| [Presentation](/#terms)/[interview](/#terms) | ??             |
+| State entry limit                            | 15 per Chapter |
+| National entry limit                         | 1 per Chapter  |
+| Portfolio required                           | Yes            |
+| [Early entry](/#terms)                       | Yes            |
+| Requires test                                | No             |
+| [Onsite Only](/#terms)                       | No             |
+| [Toolbox required](/#terms)                  | No             |
+| [Presentation](/#terms)/[interview](/#terms) | Yes            |

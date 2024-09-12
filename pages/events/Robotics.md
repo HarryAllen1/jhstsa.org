@@ -19,11 +19,11 @@ Participants design, build, document, and test a robot assembled using open-sour
 |                                              |               |
 | -------------------------------------------- | ------------- |
 | Team size                                    | 2-6           |
-| State entry limit                            | 3 per chapter |
-| National entry limit                         | 3 per state   |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 3 per State   |
 | Portfolio required                           | No            |
-| [Early entry](/#terms)                       | ??            |
+| [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
-| [Presentation](/#terms)/[interview](/#terms) | ??            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |
