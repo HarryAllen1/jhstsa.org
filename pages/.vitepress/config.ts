@@ -51,7 +51,7 @@ export default defineConfig({
       },
       {
         text: 'Forms',
-        link: 'https://lwsd.sharepoint.com/:f:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/23-24/Competition/Forms',
+        link: 'https://lwsd.sharepoint.com/:f:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Forms',
       },
       {
         text: 'Team Creation',

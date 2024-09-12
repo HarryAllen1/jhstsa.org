@@ -6,9 +6,9 @@ This event has been moved from a being Washington-only event to being a National
 
 Participants design, build, document, and test a robot assembled using open-sourced parts according to stated specifications and to meet the challenge of the yearly theme/problem.
 
-[Event Guide](https://tsaweb.org/)
+[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/HS%20-%20Robotics.pdf)
 
-[Washington TSA page](https://tsaweb.org/)
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/robotics)
 
 ## Theme
 

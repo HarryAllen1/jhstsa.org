@@ -6,9 +6,9 @@ This event has been moved from a being Washington-only event to being a National
 
 In response to an annual theme, participants use written and verbal communication skills to convey a news story in both a video broadcast (preliminary round) and a digital written format (semifinal round). Participants must demonstrate a strong understanding of journalism etiquette and the common practices of the field of mass media.
 
-[Event Guide](https://tsaweb.org/)
+[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/HS%20-%20STEM%20Mass%20Media.pdf)
 
-[Washington TSA page](https://tsaweb.org/)
+[Washington TSA page](https://www.washingtontsa.org/high-school-events/stem-mass-media)
 
 ## Theme
 
