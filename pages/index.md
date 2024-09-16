@@ -38,8 +38,7 @@ The Plan of Work Log is now just a "Work Log." No advisor signature is required.
 - **Computer-Aided Drafting (CAD), Architecture and Engineering**: The time limit for the challenge has been reduced to 3 hours. The interview is now 2 minutes.
 - **Career Prep**: This event now has a theme.
 - **Fashion Design and Technology**: All preliminary round items must be in a plastic container.
-- **Future Technology and Engineering Teacher**: The preconference submission now includes research, as essay, and a lesson plan.
-- **Manufacturing Prototype**: The preliminary round scoring is now tiered.
+- **Future Technology and Engineering Teacher**: The preconference submission now includes research, an essay, and a lesson plan.
 - **Music Production**: This event now has a theme.
 - **Photographic Technology**: Written statements can now be before or after the photo.
 - **Prepared Presentation**: The theme is no longer just the National conference theme.

@@ -4,7 +4,7 @@
 This is a Washington Only event. Washington Only events typically have smaller competition. However, you won't be able to compete in this event at the national level.
 :::
 
-::: warning 2024-2025 Changes
+::: warning Event Update
 
 This event now has a theme.
 

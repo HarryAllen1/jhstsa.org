@@ -1,7 +1,7 @@
 # Audio Podcasting
 
 ::: warning Event Update
-First names can now be used in the podcast.
+First names can now be used in the podcast. The on-site semifinal round will now upload audio instead of an interview.
 :::
 
 Participants use digital audio technology to create original content for a podcast piece that addresses the annual theme. The podcast must feature high level storytelling techniques, voice acting, and folly sound effects; the full entry must include documentation of the podcast development process and elements. Semifinalists participate in an interview.
