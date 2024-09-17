@@ -23,7 +23,7 @@ Based on the following headline (link below), develop a news broadcast that incl
 |                                              |                |
 | -------------------------------------------- | -------------- |
 | Team size                                    | 2-3            |
-| State entry limit                            | 15 per Chapter |
+| State entry limit                            | 2 per Chapter  |
 | National entry limit                         | 1 per Chapter  |
 | Portfolio required                           | Yes            |
 | [Early entry](/#terms)                       | Yes            |
