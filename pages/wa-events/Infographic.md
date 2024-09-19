@@ -28,5 +28,4 @@ This infographic is intended to be printed and hung on the wall. Students can de
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
-| [Presentation](/#terms)/[interview](/#terms) | No            |
-| [Interview](/#terms)                         | Yes           |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |
