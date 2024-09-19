@@ -22,5 +22,4 @@ Using 3D, 2D, and/or stop-motion animation tools, participants develop an animat
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
-| [Presentation](/#terms)/[interview](/#terms) | No            |
-| [Interview](/#terms)                         | Yes           |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |
