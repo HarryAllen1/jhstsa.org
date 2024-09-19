@@ -30,5 +30,4 @@ Music and Technology
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
-| [Presentation](/#terms)/[interview](/#terms) | No            |
-| [Interview](/#terms)                         | Yes           |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |
