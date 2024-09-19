@@ -30,4 +30,3 @@ This is a fun, exciting event that teachers can use to capture student interest 
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | No            |
-| [Interview](/#terms)                         | No            |
