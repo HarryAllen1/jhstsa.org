@@ -14,7 +14,7 @@ Career Prep is currently a middle school national TSA event. Washington TSA will
 
 This event incorporates elements of leadership, career research, resume development and interview skills in a real-world application.
 
-[Event Guide](https://www.washingtontsa.org/s/HS-Career-Prep-23-24.pdf)
+[Event Guide](https://www.washingtontsa.org/)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/career-prep)
 

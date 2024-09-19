@@ -6,7 +6,7 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 Participants use digital art and design skills in the production of conceptual art and portfolio that reflects the theme for the year.
 
-[Event Guide](https://www.washingtontsa.org/s/HS-Concept-Art-23-24.pdf)
+[Event Guide](https://www.washingtontsa.org/)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/concept-art)
 

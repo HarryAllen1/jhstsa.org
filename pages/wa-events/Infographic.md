@@ -6,7 +6,7 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 Participants combine text, illustrations, charts, and graphics to communicate complex concepts or data quickly and effectively, helping to help convey information in a more visually appealing and accessible manner, making it easier for viewers to understand and remember key points.
 
-[Event Guide](https://www.washingtontsa.org/s/HS-Infographic-23-24.pdf)
+[Event Guide](https://www.washingtontsa.org/)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/infographic)
 
