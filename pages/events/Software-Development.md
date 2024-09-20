@@ -10,7 +10,7 @@
 Teams must finish their entry by the early entry deadline and submit their code.
 :::
 
-Participants use their knowledge of cutting-edge technologies, algorithm design, problem-solving principles, effective communication, and collaboration to design, implement, test, document, and present a software development project of educational or social value. Both semifinalists and finalists are determined based on the quality of the presentation and project.
+Using leadership and 21st century skills, participants apply knowledge of cutting-edge technologies and algorithms to design, implement, test, and document a software development project. The project should have educational or social value. The theme of the current year's software development project will be posted on the [TSA website](https://tsaweb.org/competitions/themes-and-problems) under _Themes & Problems_
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/HS%20-%20Software%20Development.pdf)
 
