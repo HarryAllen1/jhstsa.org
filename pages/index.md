@@ -43,7 +43,7 @@ The Plan of Work Log is now just a "Work Log." No advisor signature is required.
 - **Photographic Technology**: Written statements can now be before or after the photo.
 - **Prepared Presentation**: The theme is no longer just the National conference theme.
 - **Robotics**: This event was previously a Washington Only event (under the name Robotics Challenge), but is now a National event so will have a new event guide.
-- **Software Development**: Teams must finish their entry by the early entry deadline and submit their code.
+- **Software Development**: This event now has a theme. Teams must also finish their entry by the early entry deadline and submit their code.
 - **STEM Mass Media**: This event was previously a Washington Only event, but is now a National event so will have a new event guide.
 - **Virtual Reality Visualization (VR)**: This event has been renamed to "Virtual Reality Simulation (VR)."
 - **Video Game Design**: Teams must now also submit a demonstration video.
