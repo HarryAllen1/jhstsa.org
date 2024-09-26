@@ -45,6 +45,7 @@ The Plan of Work Log is now just a "Work Log." No advisor signature is required.
 - **Robotics**: This event was previously a Washington Only event (under the name Robotics Challenge), but is now a National event so will have a new event guide.
 - **Software Development**: This event now has a theme. Teams must also finish their entry by the early entry deadline and submit their code.
 - **STEM Mass Media**: This event was previously a Washington Only event, but is now a National event so will have a new event guide.
+- **VEX Robotics**: This event was previously a National event and is now a Washington Only event.
 - **Virtual Reality Visualization (VR)**: This event has been renamed to "Virtual Reality Simulation (VR)."
 - **Video Game Design**: Teams must now also submit a demonstration video.
 
