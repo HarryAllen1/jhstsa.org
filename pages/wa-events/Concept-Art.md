@@ -12,7 +12,7 @@ Participants use digital art and design skills in the production of conceptual a
 
 ## Theme
 
-Coming soon
+**Ancient 50's**- Develop concept drawings for a game or movie where two companion characters from an ancient mythology (such as Egyptian, Celtic, Greek, Aztec, etc.) have been adapted to a 1950's aesthetic.
 
 ## Information
 

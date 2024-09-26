@@ -10,6 +10,10 @@ Using 3D, 2D, and/or stop-motion animation tools, participants develop an animat
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/animation)
 
+## Theme
+
+**Urban Fantasy** - Urban fantasy is a subgenre of fantasy, placing supernatural elements in an approximation of a contemporary urban setting.
+
 ## Information
 
 |                                              |               |
