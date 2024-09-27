@@ -25,4 +25,4 @@ Preparing to compete in a TSA event and/or preparing for your first TSA conferen
 | [Early entry](/#terms)                       | Yes (Documentation Portfolio and Audio Podcast) |
 | Requires test                                | No                                              |
 | [Onsite Only](/#terms)                       | No                                              |
-| [Presentation](/#terms)/[interview](/#terms) | Yes                                             |
+| [Presentation](/#terms)/[interview](/#terms) | No                                              |
