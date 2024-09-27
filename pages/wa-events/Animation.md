@@ -6,7 +6,7 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 Using 3D, 2D, and/or stop-motion animation tools, participants develop an animated short (with sound) and portfolio that reflects the theme for the year.
 
-[Event Guide](https://www.washingtontsa.org/)
+[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/Washington%20Only/HS%20-%20Animation.pdf)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/animation)
 
