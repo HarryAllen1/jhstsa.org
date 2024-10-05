@@ -1,5 +1,27 @@
 # Drone Challenge (UAV)
 
+::: JHS-specific eliminations prompt ### Due Sunday, October 13th.
+
+Submit a copy of the drone challenge elimination prompt, a copy will be emailed to you and be available in teams.
+
+### The Questions are:
+
+**What is your plan to build a drone to meet the specifications of this year’s design challenge?**
+
+Present a progress-chart of your plan. Fill in the block representation below with the different steps in your drone-building project. (This should be a text version of your portfolio’s photo log)
+_________________
+**What is are three programming (hardware and software) techniques and methods you are planning to use?** 
+
+What hardware (e.g., sensors, microcontrollers, cameras) will you use? Explain your choices? (It should be aligned with part e of your portfolio.)
+_________________
+**Research real-world regulation around flying drones in Spokane. Check local, state and federal rules.**
+_________________
+**What is something else you want the judges know while gauging your preparation?**
+
+Put any necessary context, outlines or additional information here.
+
+:::
+
 ::: warning Washington-specific modifications
 
 1. As a safety guideline, all drone teams will need to provide a plastic container with a lid to house their drone. We will use these containers to prevent teams from having to remove the drone propellers so many times. However, the team will still have to demonstrate that their props are removable. This is a Go/No Go requirement. Not having the container will result in disqualification.
