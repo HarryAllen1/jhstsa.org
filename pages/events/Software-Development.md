@@ -31,7 +31,7 @@ Develop a program that enhances the environment and/or agriculture to be more su
 | State entry limit                            | 3 per Chapter |
 | National entry limit                         | 1 per Chapter |
 | Portfolio required                           | No            |
-| [Early entry](/#terms)                       | No            |
+| [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
