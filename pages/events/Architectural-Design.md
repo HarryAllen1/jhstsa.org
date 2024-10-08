@@ -12,7 +12,7 @@ In response to the annual design challenge, participants develop a set of archit
 
 ## Theme
 
-[Design problem](https://www.dropbox.com/scl/fi/s83ky98jrrpgo9ohdv6vz/Architectural-Design-2025-Design-Problem-Museum-Revised.pdf?rlkey=yx7eppihotrl7m4x1h2ou7w7r&e=1&dl=0)
+[Design problem](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/architectural-design-2025-design-problem---museum.pdf)
 
 ## Information
 
