@@ -4,6 +4,10 @@
 A semifinal round will not be held.
 :::
 
+::: danger Theme update
+The Animatronics theme was recently updated to be more open ended.
+:::
+
 To address the annual design challenge, participants exhibit and demonstrate their knowledge of mechanical and control systems by creating an animatronic device with a specific purpose (i.e., communicate an idea, entertain, demonstrate a concept, etc.) that includes sound, lights, and an appropriate surrounding environment (a display).
 
 [Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/HS%20-%20Animatronics.pdf)
@@ -12,7 +16,7 @@ To address the annual design challenge, participants exhibit and demonstrate the
 
 ## Theme
 
-Following the specified requirements, create an animatronic exhibit for a public library that brings a book to life to excite young readers.
+Following the specified requirements, create an animatronic exhibit for a public library to excite young readers.
 
 ## Information
 
