@@ -6,7 +6,7 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 This is a fun, exciting event that teachers can use to capture student interest in STEM and TSA. This event incorporates elements of design, research, construction and problem-solving in a real-world application. Trebuchets must be made out of PVC.
 
-[Event Guide](https://www.washingtontsa.org/)
+[Event Guide](https://www.washingtontsa.org/s/HS-Trebuchet-Design-24-25.pdf)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/trebuchet)
 
