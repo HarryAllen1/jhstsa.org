@@ -27,7 +27,24 @@ export default defineConfig({
   markdown: {
     math: true,
   },
-  head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }],
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-0XL2T54EP5',
+      },
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-0XL2T54EP5');`,
+    ],
+  ],
   themeConfig: {
     search: {
       provider: 'local',
