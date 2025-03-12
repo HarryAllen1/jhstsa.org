@@ -27,5 +27,3 @@ In response to the annual design challenge, participants develop a set of archit
 | [Onsite Only](/#terms)                       | No            |
 | [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |
-
-\*For the State conference, Architectural Design is _not_ an early entry event. For the National conference, Architectural design _is_ an early entry event.
