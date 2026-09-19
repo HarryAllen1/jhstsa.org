@@ -6,7 +6,7 @@ Written statements can now be before or after the photo.
 
 Participants produce a photographic portfolio - demonstrating expertise in photo and imaging technology processes - to convey a message based on the annual theme. Semifinalists have 24 hours to complete a portfolio of photos (with required documentation) taken onsite at the national TSA conference. Finalists are determined based on the quality of the semifinal portfolio, the portfolio presentation, and interview responses.
 
-[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/HS%20-%20Photographic%20Technology.pdf)
+[Event Guide](https://lwsd-my.sharepoint.com/shared?listurl=https%3A%2F%2Flwsd-my%2Esharepoint%2Ecom%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments&viewid=379a6126%2D8c9e%2D43d7%2Db25f%2D77de927d4a79&FolderCTID=0x012000841516A3B42A894A90ABD878D2FE8480&id=%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments%2Fwork%2FTSA%20Docs%2FSharedTSA%2F26%2D27%20Board%20Folder%2FAll%20Rules%2026%2D27%2FCompetitons%2FHS%20%2D%20Photographic%20Technology%2Epdf&parent=%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments%2Fwork%2FTSA%20Docs%2FSharedTSA%2F26%2D27%20Board%20Folder%2FAll%20Rules%2026%2D27%2FCompetitons%2FHS%20%2D%20Photographic%20Technology%2Epdf)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/photographic-technology)
 
