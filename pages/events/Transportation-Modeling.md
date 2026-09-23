@@ -8,7 +8,7 @@ Participants research, design, and produce a scale model of a vehicle that compl
 
 ## Theme
 
-Food trucks
+Cartoon/comic vehicles
 
 ## Information
 
@@ -21,5 +21,4 @@ Food trucks
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

@@ -6,13 +6,13 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 Participants use digital art and design skills in the production of conceptual art and portfolio that reflects the theme for the year.
 
-[Event Guide](https://lwsd.sharepoint.com/:b:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/Washington%20Only/HS%20-%20Concept%20Art.pdf)
+[Event Guide](https://www.washingtontsa.org/high-school-events/concept-art)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/concept-art)
 
 ## Theme
 
-**Ancient 50's**- Develop concept drawings for a game or movie where two companion characters from an ancient mythology (such as Egyptian, Celtic, Greek, Aztec, etc.) have been adapted to a 1950's aesthetic.
+See the [current WTSA event page](https://www.washingtontsa.org/high-school-events/concept-art) for the 2026–27 theme.
 
 ## Information
 
@@ -25,5 +25,4 @@ Participants use digital art and design skills in the production of conceptual a
 | [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

@@ -1,4 +1,4 @@
-# Future Technology and Engineering Teacher
+# Future Technology Teacher
 
 Participants research a developing technology, prepare a video showing an application of the technology in the classroom, and create a lesson plan/activity that features the application and connects to the Standards for Technological and Engineering Literacy (STEL), as well as STEM initiatives and integration. Semifinalists demonstrate the lesson plan and answer questions about their presentation.
 
@@ -17,5 +17,4 @@ Participants research a developing technology, prepare a video showing an applic
 | [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

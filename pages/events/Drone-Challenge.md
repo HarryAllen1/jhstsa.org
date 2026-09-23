@@ -1,4 +1,4 @@
-# Drone Challenge (UAV)
+# Drone Challenge
 
 ::: warning Washington-specific modifications
 
@@ -15,7 +15,7 @@ Participants design, build, assemble, document, and test fly an open-source Unma
 
 ## Theme
 
-[Dinosaur Rescue](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/uav-drone--dino-rescue--2025.pdf?sfvrsn=e91c2604_1)
+See the [2026–27 TSA themes and problems](https://tsaweb.org/competitions/themes-and-problems) for the current Drone Challenge problem.
 
 ## Information
 
@@ -28,5 +28,4 @@ Participants design, build, assemble, document, and test fly an open-source Unma
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

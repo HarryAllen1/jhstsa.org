@@ -17,5 +17,4 @@ Participants demonstrate their knowledge of TSA and concepts addressed in techno
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | Yes           |
 | [Onsite Only](/#terms)                       | Yes           |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | No            |

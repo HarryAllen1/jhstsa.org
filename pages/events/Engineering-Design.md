@@ -8,7 +8,7 @@ Participants develop a solution to an annual theme that is based on a specific c
 
 ## Theme
 
-Manage the nitrogen cycle
+Engineering the Future of Energy: engineering solutions that improve the generation, storage, conservation, distribution, or use of energy.
 
 ## Information
 
@@ -21,5 +21,4 @@ Manage the nitrogen cycle
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

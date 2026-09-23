@@ -2,10 +2,7 @@
 
 ::: warning Washington-specific modification
 
-- Students will create a digital 36x48 size poster, that includes all of the required information
-- The poster will be uploaded as a separate pdf file
-- The poster will NOT be included in the portfolio file
-- The poster must be submitted for the early entry deadline. For the National conference, only the portfolio and consent forms are required.
+Washington requires the scientific poster and documentation portfolio to be submitted through the state early-entry process. See the current WTSA page for upload instructions.
 
 :::
 
@@ -17,7 +14,7 @@ Participants identify a societal issue, collect or compile data from various sou
 
 ## Theme
 
-Identify and use a "Real Estate," "Housing," and/or "Community" related open-source data set for your analyses and research. In the scientific poster, cite the source of the data, including the URL/domain and file format.
+Identify and use one AI-generated dataset related to Climate and Environmental Sustainability for analysis and research. Provide the resulting structured data file and cite the AI tool, model when available, and prompts or queries used to generate it.
 
 ## Information
 
@@ -30,7 +27,6 @@ Identify and use a "Real Estate," "Housing," and/or "Community" related open-sou
 | [Early entry](/#terms)\*                     | Yes (Documentation Portfolio, Poster, and Photo/Film/Video Consent Forms (if applicable)) |
 | Requires test                                | No                                                                                        |
 | [Onsite Only](/#terms)                       | No                                                                                        |
-| [Toolbox required](/#terms)                  | No                                                                                        |
 | [Presentation](/#terms)/[interview](/#terms) | Yes                                                                                       |
 
 \* For the State conference, the poster must also be submitted for the early entry deadline. For the National conference, only the portfolio and consent forms are required.

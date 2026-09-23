@@ -17,5 +17,4 @@ Participants take a test of basic forensic science to qualify for the semifinal 
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | Yes           |
 | [Onsite Only](/#terms)                       | Yes           |
-| [Toolbox required](/#terms)                  | Yes           |
 | [Presentation](/#terms)/[interview](/#terms) | No            |

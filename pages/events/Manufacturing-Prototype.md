@@ -8,7 +8,7 @@ Participants design, fabricate, and use Computer Integrated Manufacturing (CIM) 
 
 ## Theme
 
-An item that can be used as picture frames for a home or office while also serving another purpose
+Display or container for small collectible items
 
 ## Information
 
@@ -21,5 +21,4 @@ An item that can be used as picture frames for a home or office while also servi
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

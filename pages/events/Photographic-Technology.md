@@ -12,7 +12,7 @@ Participants produce a photographic portfolio - demonstrating expertise in photo
 
 ## Theme
 
-Using five photographs, tell a story about your journey in TSA. The type of photo (color, black and white, macro, still life, and student choice) should add to the impact of the story you are sharing.
+Behind the scenes
 
 ## Information
 
@@ -25,5 +25,4 @@ Using five photographs, tell a story about your journey in TSA. The type of phot
 | [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

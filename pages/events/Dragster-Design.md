@@ -25,7 +25,6 @@ Address weights and lengths only; there are no special design challenges.
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes\*         |
 
 \*There will be no interview/presentation at the State level.

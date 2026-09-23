@@ -25,5 +25,4 @@ For 2026–27, design a family-themed restaurant. See the [WTSA design challenge
 | [Early entry](/#terms)\*                     | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

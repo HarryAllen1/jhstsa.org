@@ -8,7 +8,7 @@ Participants develop and submit a digital video and a documentation portfolio (i
 
 ## Theme
 
-Create a short film that includes at least 30 seconds of animation
+Create an infomercial with a product and in the style of the 1990s.
 
 ## Information
 
@@ -21,5 +21,4 @@ Create a short film that includes at least 30 seconds of animation
 | [Early entry](/#terms)                       | Yes (Documentation Portfolio, Digital Video) |
 | Requires test                                | No                                           |
 | [Onsite Only](/#terms)                       | No                                           |
-| [Toolbox required](/#terms)                  | No                                           |
 | [Presentation](/#terms)/[interview](/#terms) | Yes                                          |

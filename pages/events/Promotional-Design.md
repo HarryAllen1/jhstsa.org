@@ -8,7 +8,7 @@ Participants use computerized graphic communications layout and design skills to
 
 ## Theme
 
-Branding materials for a fictitious restaurant; the four (4) Promotional Folder items are student choice.
+Milestone Diner is a retro-inspired American diner preparing for its grand opening. Create a cohesive brand identity and four promotional pieces that celebrate its nostalgic 1978 inspiration while appealing to a modern audience. See the WTSA page for the required specifications and supplied business details.
 
 ## Information
 
@@ -18,8 +18,7 @@ Branding materials for a fictitious restaurant; the four (4) Promotional Folder 
 | State entry limit                            | 3 per Chapter |
 | National entry limit                         | 3 per State   |
 | Portfolio required                           | Yes           |
-| [Early entry](/#terms)                       | No            |
+| [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | No            |

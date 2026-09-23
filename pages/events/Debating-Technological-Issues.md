@@ -12,22 +12,21 @@ Participants research the annual topic and subtopics and prepare for a debate ag
 
 ## Theme
 
-**Topic**: Biotechnology
+**Theme**: Artificial Intelligence in Medicine
 
-- **Subtopic 1**: Biometric identification poses a security threat within the digital world.
-- **Subtopic 2**: Gene-editing biotechnologies such as the CRISPR-Cas9 system, set a dangerous precedent for science applications in healthcare.
-- **Subtopic 3**: Brain interface technologies, such as Elon Musk’s Neuralink, provide a unique and beneficial solution to mental health issues.
+- **Topic 1**: AI diagnostic tools should be allowed to make medical decisions without final approval from a physician.
+- **Topic 2**: The use of AI in healthcare will improve access to care more than it will increase medical bias.
+- **Topic 3**: Patients should have the right to know when AI is involved in their diagnosis or treatment plan.
 
 ## Information
 
 |                                              |               |
 | -------------------------------------------- | ------------- |
 | Team size                                    | 2             |
-| State entry limit                            | 2 per Chapter |
+| State entry limit                            | 3 per Chapter |
 | National entry limit                         | 3 per State   |
 | Portfolio required                           | No            |
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

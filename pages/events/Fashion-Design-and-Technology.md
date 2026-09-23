@@ -18,9 +18,7 @@ To address the annual theme, participants demonstrate expertise in fashion desig
 
 ## Theme
 
-Create a prototype of a marching band uniform for a performance with the theme of “Earth, Wind, Fire, Water.” The prototype must include a type of wearable technology. No pyrotechnics or ignitable elements are permitted.
-
-Teams will submit one (1) or two (2) garments for judging (top and bottom or one \[1\]-piece.) All required components must fit inside a 32-quart plastic container. Any accessories (hats, gloves, boots, etc.) may be used during semifinalist presentations, however, they are not submitted in the preliminary round.
+Fashion created from recycled or repurposed materials. Submit one complete outfit with a maximum of two garments; garment accessories are for the semifinal round only.
 
 ## Information
 
@@ -33,5 +31,4 @@ Teams will submit one (1) or two (2) garments for judging (top and bottom or one
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

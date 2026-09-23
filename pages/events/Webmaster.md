@@ -8,9 +8,9 @@ Participants design, build, and launch a website that addresses the annual chall
 
 ## Theme
 
-**Topic**: A restaurant (dine-in and carry-out) that specializes in vegetarian food
+**Theme**: Artificial Intelligence (AI) learning portal
 
-**Challenge**: Design a website for a vegan/vegetarian restaurant. Showcase the restaurant’s approach (such as farm-to-table, preparation processes, and sustainability) to the food served in the restaurant.
+**Challenge**: Design an interactive AI learning portal for high school students. Include foundational AI concepts, practical tools and techniques, ethical AI usage, and gamification/progress tracking.
 
 ## Information
 
@@ -20,8 +20,7 @@ Participants design, build, and launch a website that addresses the annual chall
 | State entry limit                            | 2 per Chapter |
 | National entry limit                         | 1 per Chapter |
 | Portfolio required                           | No            |
-| [Early entry](/#terms)                       | No            |
+| [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

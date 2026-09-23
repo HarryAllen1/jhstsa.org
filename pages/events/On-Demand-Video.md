@@ -17,5 +17,4 @@ Once participants receive the challenge details (required criteria, such as prop
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | Yes           |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | No            |

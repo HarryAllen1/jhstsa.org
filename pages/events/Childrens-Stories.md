@@ -12,7 +12,7 @@ In response to the annual theme, participants create an illustrated children’s
 
 ## Theme
 
-Create a “touch and feel” or interactive storybook that introduces TSA and its benefits to young readers in an engaging manner.
+Create a graphic novel or comic book. Binding cannot be stapled.
 
 ## Information
 
@@ -25,7 +25,6 @@ Create a “touch and feel” or interactive storybook that introduces TSA and i
 | [Early entry](/#terms)\*                     | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |
 
 \*Children's stories is only an early entry event for the State conference. For the National conference, Children's stories is _not_ an early entry event.

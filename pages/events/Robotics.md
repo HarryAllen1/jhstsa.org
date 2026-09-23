@@ -12,7 +12,7 @@ Participants design, build, document, and test a robot assembled using open-sour
 
 ## Theme
 
-[Design Problem](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/robotics-2025_design-problem.pdf?sfvrsn=23a81353_2)
+See the [2026–27 TSA themes and problems](https://tsaweb.org/competitions/themes-and-problems) for the current Robotics problem.
 
 ## Information
 
@@ -25,5 +25,4 @@ Participants design, build, document, and test a robot assembled using open-sour
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

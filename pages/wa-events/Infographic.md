@@ -6,15 +6,13 @@ This is a Washington Only event. Washington Only events typically have smaller c
 
 Participants combine text, illustrations, charts, and graphics to communicate complex concepts or data quickly and effectively, helping to help convey information in a more visually appealing and accessible manner, making it easier for viewers to understand and remember key points.
 
-[Event Guide](https://lwsd.sharepoint.com/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Event%20Guides/Washington%20Only/HS%20-%20Infographic.pdf)
+[Event Guide](https://www.washingtontsa.org/high-school-events/infographic)
 
 [Washington TSA page](https://www.washingtontsa.org/high-school-events/infographic)
 
 ## Theme
 
-**History of Music Videos**: Students will design an infographic for the Musicians Hall of Fame.
-
-This infographic is intended to be printed and hung on the wall. Students can design EITHER a 36x48” or 18x96” graphic (submissions will be digital only).
+See the [current WTSA event page](https://www.washingtontsa.org/high-school-events/infographic) for the 2026–27 theme and dimensions.
 
 ## Information
 
@@ -27,5 +25,4 @@ This infographic is intended to be printed and hung on the wall. Students can de
 | [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

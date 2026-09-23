@@ -8,7 +8,7 @@ Participants select a contemporary biotechnology problem that addresses the annu
 
 ## Theme
 
-Tissue Engineering. Tissue Engineering is a biomedical engineering discipline that uses a combination of cells, engineering, materials methods, and suitable biochemical and physicochemical factors to restore, maintain, improve, or replace different types of biological tissues.
+Biosensors for Disease Detection. Biosensors use biological molecules, cells, or enzymes to detect specific chemicals or disease markers. Present the science behind biosensors and demonstrate one use of biosensor technology in detecting or monitoring disease.
 
 ## Information
 

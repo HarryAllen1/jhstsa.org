@@ -1,9 +1,5 @@
 # Virtual Reality Simulation (VR)
 
-::: warning Event Update
-This event has been renamed to "Virtual Reality Simulation (VR)."
-:::
-
 ::: warning Washington-specific Modification
 This event is early entry
 :::
@@ -16,7 +12,7 @@ Participants use video and 3D computer graphics tools and design processes to cr
 
 ## Theme
 
-Create a virtual reality (VR) simulation of a family vacation destination that includes experiences and activities that appeal to both young children and teenagers.
+High-speed first aid immersive simulation. Develop a VR experience that evaluates life-saving interventions under pressure, including training and certification modes with performance analytics.
 
 ## Information
 
@@ -29,5 +25,4 @@ Create a virtual reality (VR) simulation of a family vacation destination that i
 | [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

@@ -17,5 +17,4 @@ Participants design, build, fly, and adjust (trim) a rubber-band powered model a
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | No            |

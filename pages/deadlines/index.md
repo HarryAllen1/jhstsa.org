@@ -2,6 +2,6 @@
 
 | Date            | Event                                                   |
 | --------------- | ------------------------------------------------------- |
-| 23 January 2025 | [Mandatory event submission for feedback](./january.md) |
-| 14 March 2025   | [Early entry submission deadline](./march.md)           |
-| 2-5 April 2025  | [State conference](./april.md)                          |
+| 21 January 2027 | [Mandatory/qualifying event submission](./january.md) |
+| 18 March 2027   | [Early entry submission deadline](./march.md)         |
+| 7–10 April 2027 | [State conference](./april.md)                       |

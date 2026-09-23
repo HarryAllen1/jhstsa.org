@@ -8,7 +8,7 @@ Participants apply the principles of structural engineering to design and constr
 
 ## Theme
 
-[Problem Statement](https://tsaweb.org/docs/default-source/competitions/themes-and-problems-2024-2025/2025-structural-design-and-engineering-problem-statement.pdf?sfvrsn=8e72e908_7)
+See the [2026–27 TSA themes and problems](https://tsaweb.org/competitions/themes-and-problems) for the current Structural Design and Engineering problem.
 
 [Verification Form](https://tsaweb.org/docs/default-source/competitions/hs-structural-verification-form.pdf?sfvrsn=dfee5b2b_1)
 
@@ -17,11 +17,10 @@ Participants apply the principles of structural engineering to design and constr
 |                                              |                |
 | -------------------------------------------- | -------------- |
 | Team size                                    | 2              |
-| State entry limit                            | 15 per Chapter |
+| State entry limit                            | No limit per Chapter; 5 advance to finals |
 | National entry limit                         | 1 per Chapter  |
 | Portfolio required                           | Yes            |
 | [Early entry](/#terms)                       | No             |
 | Requires test                                | No             |
 | [Onsite Only](/#terms)                       | No             |
-| [Toolbox required](/#terms)                  | Yes            |
 | [Presentation](/#terms)/[interview](/#terms) | No             |

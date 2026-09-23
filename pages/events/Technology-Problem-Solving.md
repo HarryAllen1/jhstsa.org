@@ -17,5 +17,4 @@ Participants use problem-solving skills to design and construct a finite solutio
 | [Early entry](/#terms)                       | No            |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | Yes           |
-| [Toolbox required](/#terms)                  | Yes           |
 | [Presentation](/#terms)/[interview](/#terms) | No            |

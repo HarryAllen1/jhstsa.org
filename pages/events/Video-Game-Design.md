@@ -12,7 +12,7 @@ Participants design, build, and launch an E-rated online video game – with acc
 
 ## Theme
 
-Kid’s game, 2 to 4 players, playable on one (1) screen and one (1) keyboard at a time
+Create a deep-space-themed RPG where the primary method of progression is puzzle-solving rather than combat. Include core RPG elements, but do not include traditional combat.
 
 ## Information
 
@@ -25,5 +25,4 @@ Kid’s game, 2 to 4 players, playable on one (1) screen and one (1) keyboard at
 | [Early entry](/#terms)                       | Yes           |
 | Requires test                                | No            |
 | [Onsite Only](/#terms)                       | No            |
-| [Toolbox required](/#terms)                  | No            |
 | [Presentation](/#terms)/[interview](/#terms) | Yes           |

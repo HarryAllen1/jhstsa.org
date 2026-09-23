@@ -1,4 +1,4 @@
-# Computer-Aided Design (CAD) Architecture
+# Computer-Aided Design (CAD), Architecture
 
 ::: warning
 Participants may participate in CAD Architecture or CAD Engineering, but not both.
