@@ -6,6 +6,12 @@ Participants create a connected three-episode vlog series around the theme **The
 Generative Artificial Intelligence (GenAI) is permitted for this event. Follow the Use of Generative Artificial Intelligence (GenAI) guidance in the General Rules and Regulations.
 :::
 
+## Theme
+
+**The Butterfly Effect** — Small actions can create extraordinary change.
+
+Create a connected three-episode vlog series, not to exceed six minutes total, showing how one decision, act of kindness, innovation, challenge, or moment can lead to a meaningful chain of events. The series should capture authentic experiences, thoughtful reflection, and engaging storytelling, illustrating how one small action can spark a ripple effect far beyond its original moment.
+
 ## Information
 
 [Event Guide](https://lwsd-my.sharepoint.com/shared?listurl=https%3A%2F%2Flwsd-my%2Esharepoint%2Ecom%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments&viewid=379a6126%2D8c9e%2D43d7%2Db25f%2D77de927d4a79&FolderCTID=0x012000841516A3B42A894A90ABD878D2FE8480&id=%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments%2Fwork%2FTSA%20Docs%2FSharedTSA%2F26%2D27%20Board%20Folder%2FAll%20Rules%2026%2D27%2FCompetitons%2FHS%20%2D%20Vlogging%2Epdf&parent=%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments%2Fwork%2FTSA%20Docs%2FSharedTSA%2F26%2D27%20Board%20Folder%2FAll%20Rules%2026%2D27%2FCompetitons%2FHS%20%2D%20Vlogging%2Epdf)
