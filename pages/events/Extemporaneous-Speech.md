@@ -1,5 +1,9 @@
 # Extemporaneous Speech
 
+:::danger Statement of AI Use
+AI use is COMPLETELY BANNED for this event
+:::
+
 Participants select a technology-related or TSA topic from among three topic cards and prepare and give a three-to-five-minute speech that communicates their knowledge of the chosen topic. The quality of the speech determines advancement to the semifinalist level of competition, for which an identical competition procedure is followed to determine finalists.
 
 [Event Guide](https://lwsd-my.sharepoint.com/shared?listurl=https%3A%2F%2Flwsd-my%2Esharepoint%2Ecom%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments&viewid=379a6126%2D8c9e%2D43d7%2Db25f%2D77de927d4a79&FolderCTID=0x012000841516A3B42A894A90ABD878D2FE8480&id=%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments%2Fwork%2FTSA%20Docs%2FSharedTSA%2F26%2D27%20Board%20Folder%2FAll%20Rules%2026%2D27%2FCompetitons%2FHS%20%2D%20Extemporaneous%20Speech%2Epdf&parent=%2Fpersonal%2Fgshelton_lwsd%5Forg%2FDocuments%2Fwork%2FTSA%20Docs%2FSharedTSA%2F26%2D27%20Board%20Folder%2FAll%20Rules%2026%2D27%2FCompetitons%2FHS%20%2D%20Extemporaneous%20Speech%2Epdf)

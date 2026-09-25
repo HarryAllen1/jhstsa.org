@@ -1,10 +1,12 @@
 # Computer-Aided Design (CAD), Architecture
 
-::: warning
-Participants may participate in CAD Architecture or CAD Engineering, but not both.
+:::danger Statement of AI Use
+AI use is COMPLETELY BANNED for this event
 :::
 
-::: warning Event Update
+::: warning Important Info
+Participants may participate in CAD Architecture or CAD Engineering, **but not both.**
+
 The time limit for the challenge has been reduced to 3 hours. The interview is now 2 minutes.
 :::
 

@@ -1,5 +1,9 @@
 # Robotics
 
+:::danger Statement of AI Use
+AI use is COMPLETELY BANNED for this event
+:::
+
 ::: warning
 This event has been moved from a being Washington-only event to being a National event. Please read the event guide carefully.
 :::

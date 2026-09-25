@@ -4,9 +4,15 @@ This guide covers the Washington TSA high-school competitive events for the **20
 
 In order to view national event guides, make sure you are logged into your LWSD account when prompted.
 
-::: danger Statement on AI Use
-AI is completely banned in all TSA submissions. All work must be created and completed by individual competitors or teams. Plagiarism, generative-AI use, copyright violation, cheating, and falsification of information are prohibited. See the honor statement in the current event guide for the complete language and penalty.
+## Statement on AI Use
+
+::: danger
+AI is **NO LONGER** completely banned in all TSA submissions.
+
+TSA permits the use of Generative Artificial Intelligence (GenAI) software AI with clear attribution and ethical guidelines for specific events. For these events, students must submit the Resources and AI Reflection Form
 :::
+
+Generative AI tools should be used thoughtfully,ethically, and with clear purpose to enhance student learning rather than replace it. Students may use these tools as optional supports. For example, to explore possible topics, begin searching for sources, clarify their understanding of complex texts, or review their writing for grammar and tone. However, **students must read primary and secondary sources, perform their own analysis and synthesis of evidence, and make independent decisions about how to communicate their ideas in their writing and presentations.** It is the student’s responsibility to engage deeply with credible, valid sources and integrate diverse perspectives when working on solutions.
 
 ## 2026–2027 High School Events
 
@@ -58,13 +64,13 @@ AI is completely banned in all TSA submissions. All work must be created and com
 - [Concept Art](./wa-events/Concept-Art.md)
 - [Infographic](./wa-events/Infographic.md)
 - [Silent Film](./wa-events/Silent-Film.md)
-- [Trebuchet](./wa-events/Trebuchet.md)
+- [Catapult](./wa-events/Catapult.md)
 
 ## Terms
 
-| Term | Definition |
-| --- | --- |
-| Onsite Only | The event requires no preparation; competitors show up at State and complete the event there. |
-| Presentation | Time dedicated to one or more team members speaking prepared lines to judges. |
-| Interview | Time dedicated to judges asking one or more team members questions. |
-| Early entry | An event requiring a submission before the conference, usually through [JudgePro](https://judgepro.registermychapter.com/org/jpwa-tsastate/conf/jpwa-tsastate/student). |
+| Term         | Definition                                                                                                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Onsite Only  | The event requires no preparation; competitors show up at State and complete the event there.                                                                           |
+| Presentation | Time dedicated to one or more team members speaking prepared lines to judges.                                                                                           |
+| Interview    | Time dedicated to judges asking one or more team members questions.                                                                                                     |
+| Early entry  | An event requiring a submission before the conference, usually through [JudgePro](https://judgepro.registermychapter.com/org/jpwa-tsastate/conf/jpwa-tsastate/student). |

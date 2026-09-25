@@ -1,4 +1,4 @@
-# Senior Solar Sprint
+# Hybrid Racer XL
 
 Students apply scientific understanding, creativity, experimentation, and teamwork to design, build, document, and race a model solar vehicle that carries the current annual payload.
 
@@ -8,13 +8,13 @@ Students apply scientific understanding, creativity, experimentation, and teamwo
 
 ## Information
 
-| | |
-| --- | --- |
-| Team size | 2-4 |
-| State entry limit | 3 per Chapter |
-| National entry limit | 1 per Chapter |
-| Portfolio required | Yes |
-| [Early entry](/#terms) | Yes |
-| Requires test | No |
-| [Onsite Only](/#terms) | No |
-| [Presentation](/#terms)/[interview](/#terms) | Yes |
+|                                              |               |
+| -------------------------------------------- | ------------- |
+| Team size                                    | 2-4           |
+| State entry limit                            | 3 per Chapter |
+| National entry limit                         | 1 per Chapter |
+| Portfolio required                           | Yes           |
+| [Early entry](/#terms)                       | Yes           |
+| Requires test                                | No            |
+| [Onsite Only](/#terms)                       | No            |
+| [Presentation](/#terms)/[interview](/#terms) | Yes           |
