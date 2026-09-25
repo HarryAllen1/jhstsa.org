@@ -20,10 +20,13 @@ Generative AI tools should be used thoughtfully,ethically, and with clear purpos
 
 - [Animatronics](./events/Animatronics.md)
 - [Architectural Design](./events/Architectural-Design.md)
+- [Artificial Intelligence (AI)](./events/Artificial-Intelligence.md)
 - [Audio Podcasting](./events/Audio-Podcasting.md)
+- [Automated Manufacturing Systems](./events/Automated-Manufacturing-Systems.md)
 - [Biotechnology Design](./events/Biotechnology-Design.md)
 - [Board Game Design](./events/Board-Game-Design.md)
 - [Coding](./events/Coding.md)
+- [Cybersecurity](./events/Cybersecurity.md)
 - [Children's Stories](./events/Childrens-Stories.md)
 - [Computer-Aided Design (CAD) Architecture](./events/CAD-Architecture.md)
 - [Computer-Aided Design (CAD) Engineering](./events/CAD-Engineering.md)
@@ -39,6 +42,7 @@ Generative AI tools should be used thoughtfully,ethically, and with clear purpos
 - [Forensic Science](./events/Forensic-Science.md)
 - [Future Technology and Engineering Teacher](./events/Future-Technology-and+Engineering-Teacher.md)
 - [Geospatial Technology](./events/Geospatial-Technology.md)
+- [Interior Design](./events/Interior-Design.md)
 - [Manufacturing Prototype](./events/Manufacturing-Prototype.md)
 - [Music Production](./events/Music-Production.md)
 - [On Demand Video](./events/On-Demand-Video.md)
@@ -55,6 +59,7 @@ Generative AI tools should be used thoughtfully,ethically, and with clear purpos
 - [Transportation Modeling](./events/Transportation-Modeling.md)
 - [Video Game Design](./events/Video-Game-Design.md)
 - [Virtual Reality Simulation (VR)](./events/VR.md)
+- [Vlogging](./events/Vlogging.md)
 - [Webmaster](./events/Webmaster.md)
 
 ### Washington-only events
