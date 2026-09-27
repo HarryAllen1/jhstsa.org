@@ -57,23 +57,30 @@ const RatingBadge = {
   setup() {
     const route = useRoute();
     const rating = computed(() => {
-      const match = route.path.match(/(?:events|wa-events)\/(.+?)(?:\.html)?\/?$/);
+      const match = route.path.match(
+        /(?:events|wa-events)\/(.+?)(?:\.html)?\/?$/,
+      );
       return match ? ratings[match[1]] : undefined;
     });
     return () =>
       rating.value
-        ? h('div', { class: 'event-rating-badge', title: 'Club difficulty rating' }, [
-            h('span', { class: 'event-rating-label' }, 'Club rating'),
-            h('strong', `${rating.value}/5`),
-          ])
+        ? h(
+            'div',
+            { class: 'event-rating-badge', title: 'Club difficulty rating' },
+            [
+              h('span', { class: 'event-rating-label' }, 'Club Rating'),
+              h('strong', `${rating.value}/5`),
+            ],
+          )
         : null;
   },
 };
 
 export default {
   extends: DefaultTheme,
-  Layout: () => h(DefaultTheme.Layout, null, {
-    'doc-before': () => h(RatingBadge),
-  }),
+  Layout: () =>
+    h(DefaultTheme.Layout, null, {
+      'doc-before': () => h(RatingBadge),
+    }),
   enhanceApp() {},
 } satisfies Theme;

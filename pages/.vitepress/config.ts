@@ -67,6 +67,10 @@ export default defineConfig({
         link: '/',
       },
       {
+        text: 'About TSA',
+        link: '/about',
+      },
+      {
         text: 'Forms',
         link: 'https://lwsd.sharepoint.com/:f:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Forms',
       },

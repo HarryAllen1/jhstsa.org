@@ -8,6 +8,250 @@
   position: relative;
 }
 
+.vp-doc {
+  --about-surface: oklch(95.998% 0.01879 289.232);
+  --about-surface-strong: oklch(92.827% 0.03534 282.164);
+  --about-border: oklch(80.279% 0.05864 298.43);
+  --about-ink: oklch(22.164% 0.03107 283.575);
+  --about-muted: oklch(54.266% 0.16601 273.968);
+  --about-warm: oklch(90.351% 0.06366 224.524);
+  --about-warm-border: oklch(65.267% 0.10931 267.824);
+}
+
+.vp-doc .about-signal {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  margin: 2rem 0 2.5rem;
+  overflow: hidden;
+  color: var(--about-ink);
+  background: var(--about-border);
+  border: 1px solid var(--about-border);
+  border-radius: 0.75rem;
+}
+
+.about-signal div {
+  display: grid;
+  gap: 0.1rem;
+  padding: 1.1rem 1.25rem;
+  background: var(--about-surface);
+}
+
+.about-signal strong {
+  color: var(--vp-c-brand-1);
+  font-size: clamp(1.35rem, 3vw, 2rem);
+  line-height: 1;
+}
+
+.about-signal span,
+.layer-tag,
+.path-kicker {
+  font-size: 0.73rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.about-signal span {
+  color: var(--about-muted);
+}
+
+.vp-doc .tsa-layers {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0;
+  margin: 1.5rem 0 3rem;
+  border: 1px solid var(--about-border);
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+.tsa-layers article {
+  padding: 1.5rem;
+  background: var(--about-surface);
+}
+
+.tsa-layers article + article {
+  border-left: 1px solid var(--about-border);
+}
+.layer-tag,
+.path-kicker {
+  color: var(--vp-c-brand-1);
+}
+.tsa-layers h3,
+.path-step h3,
+.selection-note h3 {
+  margin: 0.35rem 0 0.5rem;
+}
+.tsa-layers p,
+.path-step p,
+.selection-note p {
+  margin: 0.45rem 0 0;
+}
+
+.vp-doc .competition-path {
+  margin: 1.8rem 0;
+  padding: clamp(1rem, 4vw, 2rem);
+  background: var(--about-surface);
+  border: 1px solid var(--about-border);
+  border-radius: 0.9rem;
+}
+
+.path-step {
+  display: grid;
+  grid-template-columns: 3.2rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.35rem 0;
+}
+
+.step-number {
+  display: grid;
+  place-items: center;
+  width: 2.55rem;
+  height: 2.55rem;
+  color: var(--about-surface);
+  font-size: 0.78rem;
+  font-weight: 800;
+  border-radius: 50%;
+}
+
+.path-chapter .step-number {
+  background: hsl(4 68% 49%);
+}
+.path-regional .step-number {
+  background: hsl(24 74% 44%);
+}
+.path-state .step-number {
+  background: hsl(211 55% 37%);
+}
+.path-national .step-number {
+  background: hsl(269 45% 40%);
+}
+.path-arrow {
+  margin: 0.35rem 0 0.35rem 0.8rem;
+  color: var(--about-muted);
+  font-size: 1.45rem;
+  line-height: 1;
+}
+
+.orlando-photo {
+  margin: 1rem 0 0;
+}
+
+.orlando-photo img {
+  display: block;
+  width: 100%;
+  max-width: 42rem;
+  height: auto;
+  border: 1px solid var(--about-border);
+  border-radius: 0.6rem;
+}
+
+.orlando-photo figcaption {
+  margin-top: 0.45rem;
+  color: var(--about-muted);
+  font-size: 0.85rem;
+}
+
+.vp-doc .tsa-fit {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+  margin: 2rem 0 3rem;
+  padding: clamp(1.25rem, 4vw, 2rem);
+  color: var(--about-ink);
+  background: var(--about-surface-strong);
+  border: 1px solid var(--about-border);
+  border-radius: 0.75rem;
+}
+
+.tsa-fit-mark {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  color: var(--vp-c-brand-1);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  background: var(--about-surface);
+  border: 1px solid var(--about-border);
+  border-radius: 50%;
+}
+
+.tsa-fit h3 {
+  margin: 0.3rem 0 0.5rem;
+}
+.tsa-fit p {
+  margin: 0.45rem 0 0;
+}
+
+.vp-doc .selection-note {
+  margin: 2rem 0 3rem;
+  padding: clamp(1.25rem, 4vw, 2rem);
+  color: var(--about-ink);
+  background: var(--about-warm);
+  border: 1px solid var(--about-warm-border);
+  border-radius: 0.75rem;
+}
+
+@media (max-width: 640px) {
+  .vp-doc .about-signal {
+    grid-template-columns: 1fr;
+  }
+  .vp-doc .tsa-layers {
+    grid-template-columns: 1fr;
+  }
+  .tsa-layers article + article {
+    border-top: 1px solid var(--about-border);
+    border-left: 0;
+  }
+  .about-signal div {
+    padding: 0.9rem 1rem;
+  }
+  .path-step {
+    grid-template-columns: 2.7rem minmax(0, 1fr);
+    gap: 0.75rem;
+  }
+  .path-arrow {
+    margin-left: 0.62rem;
+  }
+  .vp-doc .tsa-fit {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+}
+
+.dark .vp-doc {
+  --about-surface: oklch(20% 0.015 28);
+  --about-surface-strong: oklch(25% 0.027 29);
+  --about-border: oklch(42% 0.04 30);
+  --about-ink: oklch(91% 0.014 65);
+  --about-muted: oklch(76% 0.018 46);
+  --about-warm: oklch(29% 0.055 85);
+  --about-warm-border: oklch(54% 0.085 85);
+}
+
+.dark .about-signal strong,
+.dark .layer-tag,
+.dark .path-kicker {
+  color: oklch(72% 0.18 28);
+}
+
+.dark .path-chapter .step-number {
+  background: oklch(57% 0.2 28);
+}
+.dark .path-regional .step-number {
+  background: oklch(62% 0.15 57);
+}
+.dark .path-state .step-number {
+  background: oklch(53% 0.11 248);
+}
+.dark .path-national .step-number {
+  background: oklch(55% 0.15 305);
+}
+
 .event-rating-badge {
   position: absolute;
   top: -1.25rem;
@@ -25,14 +269,50 @@
   border-radius: 50%;
   box-shadow: 0 0.35rem 0.8rem rgb(35 39 67 / 0.16);
   clip-path: polygon(
-    50% 0%, 56% 6%, 63% 2%, 68% 9%, 76% 7%, 79% 16%,
-    88% 15%, 87% 24%, 96% 28%, 91% 36%, 100% 42%, 94% 50%,
-    100% 58%, 91% 64%, 96% 72%, 87% 76%, 88% 85%, 79% 84%,
-    76% 93%, 68% 91%, 63% 98%, 56% 94%, 50% 100%, 44% 94%,
-    37% 98%, 32% 91%, 24% 93%, 21% 84%, 12% 85%, 13% 76%,
-    4% 72%, 9% 64%, 0% 58%, 6% 50%, 0% 42%, 9% 36%,
-    4% 28%, 13% 24%, 12% 15%, 21% 16%, 24% 7%, 32% 9%,
-    37% 2%, 44% 6%
+    50% 0%,
+    56% 6%,
+    63% 2%,
+    68% 9%,
+    76% 7%,
+    79% 16%,
+    88% 15%,
+    87% 24%,
+    96% 28%,
+    91% 36%,
+    100% 42%,
+    94% 50%,
+    100% 58%,
+    91% 64%,
+    96% 72%,
+    87% 76%,
+    88% 85%,
+    79% 84%,
+    76% 93%,
+    68% 91%,
+    63% 98%,
+    56% 94%,
+    50% 100%,
+    44% 94%,
+    37% 98%,
+    32% 91%,
+    24% 93%,
+    21% 84%,
+    12% 85%,
+    13% 76%,
+    4% 72%,
+    9% 64%,
+    0% 58%,
+    6% 50%,
+    0% 42%,
+    9% 36%,
+    4% 28%,
+    13% 24%,
+    12% 15%,
+    21% 16%,
+    24% 7%,
+    32% 9%,
+    37% 2%,
+    44% 6%
   );
   transform: rotate(3deg);
 }
