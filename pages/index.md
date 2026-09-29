@@ -8,8 +8,7 @@ In order to view national event guides, make sure you are logged into your LWSD 
 
 ## Statement on AI Use
 
-::: danger
-AI is **NO LONGER** completely banned in all TSA submissions.
+::: danger AI is **NO LONGER** completely banned in all TSA submissions.
 
 TSA permits the use of Generative Artificial Intelligence (GenAI) software AI with clear attribution and ethical guidelines for specific events. For these events, students must submit the Resources and AI Reflection Form
 :::
