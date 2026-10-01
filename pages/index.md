@@ -2,7 +2,7 @@
 
 This guide covers the Washington TSA high-school competitive events for the **2026–2027** school year. The current event list is maintained by [Washington TSA](https://www.washingtontsa.org/high-school-events); each event page links to its official WTSA information and current rules.
 
-The JHS TSA board has rated, with the input of experienced members, all the events in the event based on the average **time commitement** it needs for a member in that event. There is a points minimum of 10 a member must meet in order to qualify to go to state. These **points are not indcative an event's competitiveness**: you are not going to win easily in lower rated events. In fact, if you aim to make it to the national level, you will need to put signifact effort even if it is an lower ranked event.
+The JHS TSA board has rated, with the input of experienced members, all the events in the event based on the average **time commitement** it needs for a member in that event. There is a points minimum of 10 a member must meet in order to qualify to go to state. These **points are not indcative an event's competitiveness**: you are not going to win easily in lower rated events. In fact, if you aim to make it to the national level, you will need to put significant effort even if it is an lower ranked event.
 
 In order to view national event guides, make sure you are logged into your LWSD account when prompted.
 
