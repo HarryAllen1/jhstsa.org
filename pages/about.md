@@ -85,7 +85,7 @@ Browse the [event guide](/) when you are ready to see the actual options. Every 
 
 <div class="selection-note">
   <h3> We make elimationation solely on merit. Who is most likely to succeed at State?</h3>
-  <p>That is the only factor. We do not choose based on how long you have been in TSA, whether you have competed before, or who you know. A new member can absolutely earn a spot by preparing well and showing the skills the event needs.</p>
+  <p>That is the only factor. We do not choose based on how long you have been in TSA, whether you have competed before, who you know, or if you have won in the past. We only care about what you have done this year. A new member can absolutely earn a spot by preparing well and showing the skills the event needs.</p>
 </div>
 
 ## TSA is not an exclusive commitement

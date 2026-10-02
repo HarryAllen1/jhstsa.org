@@ -71,6 +71,10 @@ export default defineConfig({
         link: '/about',
       },
       {
+        text: 'Calendar',
+        link: '/calendar',
+      },
+      {
         text: 'Forms',
         link: 'https://lwsd.sharepoint.com/:f:/r/sites/GR-JHS-TechnologyStudentAssociation-SCA/Shared%20Documents/2024-25/Forms',
       },
@@ -81,6 +85,10 @@ export default defineConfig({
     ],
 
     sidebar: [
+      {
+        text: 'Calendar',
+        link: '/calendar',
+      },
       {
         text: 'Deadlines',
         link: '/deadlines',

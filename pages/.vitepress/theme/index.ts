@@ -2,6 +2,7 @@ import { computed, h } from 'vue';
 import { useRoute } from 'vitepress';
 import type { Theme } from 'vitepress';
 import DefaultTheme from 'vitepress/theme';
+import RelativeCalendarDays from './components/RelativeCalendarDays.vue';
 import './style.css';
 
 const ratings: Record<string, number> = {
@@ -82,5 +83,7 @@ export default {
     h(DefaultTheme.Layout, null, {
       'doc-before': () => h(RatingBadge),
     }),
-  enhanceApp() {},
+  enhanceApp({ app }) {
+    app.component('RelativeCalendarDays', RelativeCalendarDays);
+  },
 } satisfies Theme;
